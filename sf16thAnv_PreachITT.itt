@@ -1,0 +1,3363 @@
+<?xml version="1.0" standalone="yes"?>
+<tt xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tt_feature="http://www.w3.org/ns/ttml/feature/" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:tt_extension="http://www.w3.org/ns/ttml/extension/" xmlns:tt_profile="http://www.w3.org/ns/ttml/profile/" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ry="http://namespace.itunes.apple.com/itt/ttml-extension#ruby" xmlns="http://www.w3.org/ns/ttml" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ttp:frameRate="30" ttp:frameRateMultiplier="1000 1001" xml:lang="en" ttp:dropMode="nonDrop" ttp:timeBase="smpte">
+    <head>
+        <ttp:profile>
+            <ttp:extensions xml:base="http://namespace.itunes.apple.com/itt/ttml-extension/">
+                <ttp:extension>#ruby</ttp:extension>
+                <ttp:extension>#vertical</ttp:extension>
+            </ttp:extensions>
+        </ttp:profile>
+        <styling>
+            <style tts:fontFamily="sansSerif" tts:color="white" tts:fontStyle="normal" tts:fontSize="100%" xml:id="normal" tts:fontWeight="normal"></style>
+        </styling>
+        <layout>
+            <region tts:displayAlign="before" tts:extent="100% 15%" tts:textAlign="center" xml:id="top" tts:origin="0% 0%"></region>
+            <region tts:displayAlign="after" tts:extent="100% 15%" tts:textAlign="center" xml:id="bottom" tts:origin="0% 85%"></region>
+            <region tts:extent="15% 100%" tts:writingMode="tbrl" tts:textAlign="start" xml:id="right" tts:origin="85% 0%"></region>
+            <region tts:extent="15% 100%" tts:writingMode="tbrl" tts:textAlign="start" xml:id="left" tts:origin="15% 0%"></region>
+        </layout>
+    </head>
+    <body style="normal" region="bottom">
+        <div>
+            <p begin="00:00:31:18" end="00:00:32:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah!</span>
+            </p>
+            <p begin="00:00:32:12" end="00:00:33:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Let us clap our hands unto the  Lord</span>
+            </p>
+            <p begin="00:00:33:26" end="00:00:34:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah</span>
+            </p>
+            <p begin="00:00:35:15" end="00:00:36:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Praise the mighty name </span>
+            </p>
+            <p begin="00:00:36:21" end="00:00:38:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">of our dearest Lord Jesus  Christ!</span>
+            </p>
+            <p begin="00:00:39:03" end="00:00:41:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">We greet you in the mighty name</span>
+            </p>
+            <p begin="00:00:41:02" end="00:00:42:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">of Jesus amen</span>
+            </p>
+            <p begin="00:00:42:26" end="00:00:44:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The King of Kings</span>
+            </p>
+            <p begin="00:00:44:04" end="00:00:45:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The Lord of Lords</span>
+            </p>
+            <p begin="00:00:45:29" end="00:00:46:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The mighty God</span>
+            </p>
+            <p begin="00:00:46:29" end="00:00:48:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The everlasting Father amen</span>
+            </p>
+            <p begin="00:00:49:05" end="00:00:50:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The Prince of Peace</span>
+            </p>
+            <p begin="00:00:50:07" end="00:00:53:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Let us clap our hands to our  dearest Lord Jesus</span>
+            </p>
+            <p begin="00:00:53:21" end="00:00:54:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen hallelujah</span>
+            </p>
+            <p begin="00:00:54:21" end="00:00:56:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Truly it is so great</span>
+            </p>
+            <p begin="00:00:56:23" end="00:00:58:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">It is so good to feel</span>
+            </p>
+            <p begin="00:00:58:05" end="00:01:00:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the presence of our living God</span>
+            </p>
+            <p begin="00:01:00:18" end="00:01:01:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Happy and blessed</span>
+            </p>
+            <p begin="00:01:01:12" end="00:01:03:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">16th year anniversary</span>
+            </p>
+            <p begin="00:01:04:08" end="00:01:06:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to our holy outreach here</span>
+            </p>
+            <p begin="00:01:06:08" end="00:01:07:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in San Francisco</span>
+            </p>
+            <p begin="00:01:07:05" end="00:01:10:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and also San Jose anniversary</span>
+            </p>
+            <p begin="00:01:10:14" end="00:01:12:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">as well beloved</span>
+            </p>
+            <p begin="00:01:12:01" end="00:01:13:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">7th year anniversary</span>
+            </p>
+            <p begin="00:01:13:24" end="00:01:14:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">We are so blessed</span>
+            </p>
+            <p begin="00:01:14:19" end="00:01:15:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">by our dear Lord</span>
+            </p>
+            <p begin="00:01:15:20" end="00:01:17:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and will continue to be blessed</span>
+            </p>
+            <p begin="00:01:17:18" end="00:01:18:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:01:18:16" end="00:01:19:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">To be a way for the salvation</span>
+            </p>
+            <p begin="00:01:19:15" end="00:01:21:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">of many more souls here</span>
+            </p>
+            <p begin="00:01:21:07" end="00:01:23:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in the United States Of  America</span>
+            </p>
+            <p begin="00:01:23:12" end="00:01:24:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Praise the Lord!</span>
+            </p>
+            <p begin="00:01:24:05" end="00:01:24:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Praise the Lord.</span>
+            </p>
+            <p begin="00:01:24:21" end="00:01:25:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Let us pray.</span>
+            </p>
+            <p begin="00:01:27:10" end="00:01:28:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Heavenly Father in the mighty</span>
+            </p>
+            <p begin="00:01:28:22" end="00:01:29:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">name of Jesus</span>
+            </p>
+            <p begin="00:01:29:18" end="00:01:30:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">before anything else</span>
+            </p>
+            <p begin="00:01:31:10" end="00:01:32:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah we thank you</span>
+            </p>
+            <p begin="00:01:32:11" end="00:01:33:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">for moving in our midst</span>
+            </p>
+            <p begin="00:01:33:16" end="00:01:33:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Oh God</span>
+            </p>
+            <p begin="00:01:34:20" end="00:01:35:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">for filling us with</span>
+            </p>
+            <p begin="00:01:35:18" end="00:01:36:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">your sweet Holy Spirit</span>
+            </p>
+            <p begin="00:01:36:29" end="00:01:37:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Oh God</span>
+            </p>
+            <p begin="00:01:37:28" end="00:01:39:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Thank you for the miracles</span>
+            </p>
+            <p begin="00:01:39:23" end="00:01:41:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">signs, wonders in your Holy  Church</span>
+            </p>
+            <p begin="00:01:42:02" end="00:01:43:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">for 16 long years</span>
+            </p>
+            <p begin="00:01:43:15" end="00:01:44:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Father God Hallelujah</span>
+            </p>
+            <p begin="00:01:44:19" end="00:01:46:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">as we listen to your holy Word</span>
+            </p>
+            <p begin="00:01:46:20" end="00:01:47:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">through the leading prayers</span>
+            </p>
+            <p begin="00:01:47:16" end="00:01:48:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">of our Beloved Pastor</span>
+            </p>
+            <p begin="00:01:48:10" end="00:01:50:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Evangelist Wilde Estrada Almeda</span>
+            </p>
+            <p begin="00:01:50:23" end="00:01:51:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Your end time prophet</span>
+            </p>
+            <p begin="00:01:52:05" end="00:01:53:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">We pray oh God anoint your  servant</span>
+            </p>
+            <p begin="00:01:53:20" end="00:01:54:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Oh God for without You</span>
+            </p>
+            <p begin="00:01:55:00" end="00:01:55:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">I am nothing</span>
+            </p>
+            <p begin="00:01:55:25" end="00:01:57:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">We can't do anything without You</span>
+            </p>
+            <p begin="00:01:57:11" end="00:01:58:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Father God help me bring forth</span>
+            </p>
+            <p begin="00:01:58:18" end="00:02:00:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Your message with love and power</span>
+            </p>
+            <p begin="00:02:00:22" end="00:02:01:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah remove doubts</span>
+            </p>
+            <p begin="00:02:01:29" end="00:02:02:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and unbeliefs</span>
+            </p>
+            <p begin="00:02:02:26" end="00:02:05:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Cast out in the mighty name of  Jesus</span>
+            </p>
+            <p begin="00:02:05:21" end="00:02:07:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Bind the power of darkness</span>
+            </p>
+            <p begin="00:02:07:04" end="00:02:09:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">cast out in Jesus name</span>
+            </p>
+            <p begin="00:02:09:14" end="00:02:10:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Amen</span>
+            </p>
+            <p begin="00:02:10:05" end="00:02:10:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah you may go back</span>
+            </p>
+            <p begin="00:02:10:29" end="00:02:12:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to your seats</span>
+            </p>
+            <p begin="00:02:12:10" end="00:02:13:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">God bless you</span>
+            </p>
+            <p begin="00:02:13:25" end="00:02:14:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The bible says in</span>
+            </p>
+            <p begin="00:02:14:21" end="00:02:15:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hebrews 13:7</span>
+            </p>
+            <p begin="00:02:15:27" end="00:02:17:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Remember them which have</span>
+            </p>
+            <p begin="00:02:17:07" end="00:02:18:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the rule over you</span>
+            </p>
+            <p begin="00:02:18:19" end="00:02:19:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Who have spoken unto you</span>
+            </p>
+            <p begin="00:02:19:25" end="00:02:20:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the Word of God</span>
+            </p>
+            <p begin="00:02:21:08" end="00:02:23:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Whose faith follow</span>
+            </p>
+            <p begin="00:02:23:11" end="00:02:25:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">whose faith follow</span>
+            </p>
+            <p begin="00:02:25:00" end="00:02:25:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">considering the end</span>
+            </p>
+            <p begin="00:02:25:29" end="00:02:27:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">of their conversation.</span>
+            </p>
+            <p begin="00:02:29:09" end="00:02:30:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">First Timothy 5:17</span>
+            </p>
+            <p begin="00:02:30:27" end="00:02:32:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Let the elders that rule well be counted worthy</span>
+            </p>
+            <p begin="00:02:32:17" end="00:02:33:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">of double honor</span>
+            </p>
+            <p begin="00:02:33:23" end="00:02:35:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">especially they who labour</span>
+            </p>
+            <p begin="00:02:35:10" end="00:02:37:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in the word and doctrine.</span>
+            </p>
+            <p begin="00:02:37:07" end="00:02:37:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Amen</span>
+            </p>
+            <p begin="00:02:38:03" end="00:02:39:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">We give double honor and respect</span>
+            </p>
+            <p begin="00:02:39:13" end="00:02:40:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to the man of God</span>
+            </p>
+            <p begin="00:02:40:08" end="00:02:41:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the Prophet of God</span>
+            </p>
+            <p begin="00:02:41:07" end="00:02:42:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">our Beloved Pastor</span>
+            </p>
+            <p begin="00:02:42:08" end="00:02:44:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Evangelist Wilde Estrada Almeda</span>
+            </p>
+            <p begin="00:02:44:23" end="00:02:46:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Who lived a life of prayer</span>
+            </p>
+            <p begin="00:02:46:10" end="00:02:48:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and fasting amen</span>
+            </p>
+            <p begin="00:02:48:17" end="00:02:49:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Preaching the Word of God</span>
+            </p>
+            <p begin="00:02:49:24" end="00:02:52:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">with power from on High</span>
+            </p>
+            <p begin="00:02:52:15" end="00:02:53:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">We are so much blessed</span>
+            </p>
+            <p begin="00:02:53:24" end="00:02:55:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren amen</span>
+            </p>
+            <p begin="00:02:55:21" end="00:02:56:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and to our Beloved</span>
+            </p>
+            <p begin="00:02:56:11" end="00:02:58:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Assistant Pastor Lina C. Almeda</span>
+            </p>
+            <p begin="00:02:58:00" end="00:02:59:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">who taught us and guided us</span>
+            </p>
+            <p begin="00:02:59:27" end="00:03:01:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">all the workers</span>
+            </p>
+            <p begin="00:03:01:01" end="00:03:02:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and all the workers to be</span>
+            </p>
+            <p begin="00:03:02:04" end="00:03:04:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">diligent in the Holy Vineyard of</span>
+            </p>
+            <p begin="00:03:05:13" end="00:03:06:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">our Dearest Lord Jesus</span>
+            </p>
+            <p begin="00:03:06:14" end="00:03:07:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Amen</span>
+            </p>
+            <p begin="00:03:07:17" end="00:03:08:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah</span>
+            </p>
+            <p begin="00:03:08:06" end="00:03:09:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Truly our dearest Lord</span>
+            </p>
+            <p begin="00:03:09:11" end="00:03:10:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">is very great</span>
+            </p>
+            <p begin="00:03:10:10" end="00:03:11:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Seems like not too long ago</span>
+            </p>
+            <p begin="00:03:11:24" end="00:03:13:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">our previous anniversary</span>
+            </p>
+            <p begin="00:03:13:00" end="00:03:14:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">last year had passed</span>
+            </p>
+            <p begin="00:03:14:04" end="00:03:15:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we're here again</span>
+            </p>
+            <p begin="00:03:15:03" end="00:03:16:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">gathering and celebrating</span>
+            </p>
+            <p begin="00:03:16:29" end="00:03:19:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">our anniversary</span>
+            </p>
+            <p begin="00:03:19:19" end="00:03:20:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Amen</span>
+            </p>
+            <p begin="00:03:20:04" end="00:03:20:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">lets clap our hands</span>
+            </p>
+            <p begin="00:03:20:26" end="00:03:22:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to our dearest Lord</span>
+            </p>
+            <p begin="00:03:23:23" end="00:03:25:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">To all our webcast viewers</span>
+            </p>
+            <p begin="00:03:25:20" end="00:03:26:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">around the world</span>
+            </p>
+            <p begin="00:03:26:13" end="00:03:27:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we greet you</span>
+            </p>
+            <p begin="00:03:27:22" end="00:03:28:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">our beloved siblings</span>
+            </p>
+            <p begin="00:03:28:29" end="00:03:30:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved Ate Peach</span>
+            </p>
+            <p begin="00:03:30:07" end="00:03:31:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved Minister Jun</span>
+            </p>
+            <p begin="00:03:31:14" end="00:03:32:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in the Philippines</span>
+            </p>
+            <p begin="00:03:32:25" end="00:03:33:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved Ate Lay</span>
+            </p>
+            <p begin="00:03:33:27" end="00:03:34:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">kuya Rica</span>
+            </p>
+            <p begin="00:03:34:12" end="00:03:35:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">greetings to our</span>
+            </p>
+            <p begin="00:03:35:10" end="00:03:37:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">younger siblings that are</span>
+            </p>
+            <p begin="00:03:37:05" end="00:03:38:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">watching..amen</span>
+            </p>
+            <p begin="00:03:38:18" end="00:03:40:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Beloved Minister Luke Smith</span>
+            </p>
+            <p begin="00:03:40:03" end="00:03:41:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">watching in Indiana right now</span>
+            </p>
+            <p begin="00:03:41:23" end="00:03:42:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">he's watching</span>
+            </p>
+            <p begin="00:03:43:04" end="00:03:44:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">We welcome also</span>
+            </p>
+            <p begin="00:03:44:02" end="00:03:45:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved Ate Teth</span>
+            </p>
+            <p begin="00:03:45:03" end="00:03:45:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">from Indiana</span>
+            </p>
+            <p begin="00:03:45:23" end="00:03:47:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">she travelled alone</span>
+            </p>
+            <p begin="00:03:47:06" end="00:03:47:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:03:48:06" end="00:03:49:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">We know that it's like</span>
+            </p>
+            <p begin="00:03:49:14" end="00:03:51:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">traveling to the Philippines</span>
+            </p>
+            <p begin="00:03:51:02" end="00:03:53:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">when flying from Indiana to here</span>
+            </p>
+            <p begin="00:03:53:02" end="00:03:53:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved</span>
+            </p>
+            <p begin="00:03:53:18" end="00:03:54:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">it's really hard</span>
+            </p>
+            <p begin="00:03:54:21" end="00:03:55:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to travel</span>
+            </p>
+            <p begin="00:03:56:07" end="00:03:56:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah</span>
+            </p>
+            <p begin="00:03:56:28" end="00:03:58:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">She travelled so far</span>
+            </p>
+            <p begin="00:03:58:11" end="00:04:00:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to join us in celebrating</span>
+            </p>
+            <p begin="00:04:01:23" end="00:04:02:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the goodness of God</span>
+            </p>
+            <p begin="00:04:02:29" end="00:04:04:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in this ministry</span>
+            </p>
+            <p begin="00:04:04:04" end="00:04:05:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen hallelujah</span>
+            </p>
+            <p begin="00:04:05:10" end="00:04:06:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we are so much happy</span>
+            </p>
+            <p begin="00:04:06:20" end="00:04:07:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to have you here my sister</span>
+            </p>
+            <p begin="00:04:07:27" end="00:04:08:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">hallelujah</span>
+            </p>
+            <p begin="00:04:09:01" end="00:04:09:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and we welcome</span>
+            </p>
+            <p begin="00:04:09:25" end="00:04:11:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">our beloved brethren from</span>
+            </p>
+            <p begin="00:04:11:25" end="00:04:12:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Texas</span>
+            </p>
+            <p begin="00:04:12:15" end="00:04:13:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">I think last year</span>
+            </p>
+            <p begin="00:04:13:11" end="00:04:14:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we forgot to greet them</span>
+            </p>
+            <p begin="00:04:14:17" end="00:04:16:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">so from Houston, Texas</span>
+            </p>
+            <p begin="00:04:16:12" end="00:04:17:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brother John</span>
+            </p>
+            <p begin="00:04:17:24" end="00:04:18:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen hallelujah</span>
+            </p>
+            <p begin="00:04:18:24" end="00:04:20:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Our dear Lord bless us all</span>
+            </p>
+            <p begin="00:04:20:22" end="00:04:23:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved Attorney Tom Cox</span>
+            </p>
+            <p begin="00:04:23:18" end="00:04:25:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved Sis. Apipa</span>
+            </p>
+            <p begin="00:04:25:12" end="00:04:26:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:04:26:09" end="00:04:27:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah</span>
+            </p>
+            <p begin="00:04:27:17" end="00:04:28:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">from LA</span>
+            </p>
+            <p begin="00:04:29:01" end="00:04:30:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">from Georgia..amen</span>
+            </p>
+            <p begin="00:04:30:12" end="00:04:32:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">who else is not mentioned</span>
+            </p>
+            <p begin="00:04:32:06" end="00:04:33:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">our dear God bless you</span>
+            </p>
+            <p begin="00:04:33:18" end="00:04:34:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">our beloved uh</span>
+            </p>
+            <p begin="00:04:34:21" end="00:04:36:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Las Vegas brethren amen</span>
+            </p>
+            <p begin="00:04:36:16" end="00:04:37:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">hallelujah we're so happy</span>
+            </p>
+            <p begin="00:04:37:28" end="00:04:39:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we're so much blessed</span>
+            </p>
+            <p begin="00:04:39:01" end="00:04:40:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that we are all here</span>
+            </p>
+            <p begin="00:04:40:15" end="00:04:42:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that we may</span>
+            </p>
+            <p begin="00:04:42:11" end="00:04:44:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">talk about the goodness</span>
+            </p>
+            <p begin="00:04:44:11" end="00:04:45:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">of God amen</span>
+            </p>
+            <p begin="00:04:45:22" end="00:04:47:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we are here</span>
+            </p>
+            <p begin="00:04:47:20" end="00:04:48:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:04:48:08" end="00:04:49:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">our beloved brother Jun</span>
+            </p>
+            <p begin="00:04:50:04" end="00:04:51:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Lonzaga from Canada</span>
+            </p>
+            <p begin="00:04:52:00" end="00:04:54:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brother Roderick Garcia</span>
+            </p>
+            <p begin="00:04:54:03" end="00:04:55:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">from Canada amen</span>
+            </p>
+            <p begin="00:04:55:26" end="00:04:57:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah our dear Lord</span>
+            </p>
+            <p begin="00:04:57:26" end="00:04:58:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">bless all of us</span>
+            </p>
+            <p begin="00:04:58:25" end="00:04:59:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">all our beloved preachers</span>
+            </p>
+            <p begin="00:04:59:24" end="00:05:00:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">from Los Angeles</span>
+            </p>
+            <p begin="00:05:01:21" end="00:05:02:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah</span>
+            </p>
+            <p begin="00:05:03:09" end="00:05:05:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we are here to remember</span>
+            </p>
+            <p begin="00:05:05:04" end="00:05:06:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">what God has done in our lives</span>
+            </p>
+            <p begin="00:05:06:25" end="00:05:07:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:05:09:08" end="00:05:10:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the Bible says</span>
+            </p>
+            <p begin="00:05:10:03" end="00:05:11:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">God doesn't want</span>
+            </p>
+            <p begin="00:05:13:06" end="00:05:14:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">doesn't want us to forget</span>
+            </p>
+            <p begin="00:05:14:08" end="00:05:15:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">His judgment</span>
+            </p>
+            <p begin="00:05:15:02" end="00:05:15:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:05:19:25" end="00:05:21:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Matthew 24:35 says</span>
+            </p>
+            <p begin="00:05:21:15" end="00:05:24:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Heaven and earth shall pass away</span>
+            </p>
+            <p begin="00:05:24:25" end="00:05:27:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but my words shall not pass away</span>
+            </p>
+            <p begin="00:05:27:16" end="00:05:29:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Praise the Lord, kindly please</span>
+            </p>
+            <p begin="00:05:31:10" end="00:05:33:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and Hebrews 13: 8 and 9</span>
+            </p>
+            <p begin="00:05:42:06" end="00:05:43:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">24:35</span>
+            </p>
+            <p begin="00:05:45:12" end="00:05:46:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in the book of Matthew</span>
+            </p>
+            <p begin="00:05:46:08" end="00:05:47:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">chapter 24</span>
+            </p>
+            <p begin="00:05:48:01" end="00:05:49:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">verse 35</span>
+            </p>
+            <p begin="00:05:50:06" end="00:05:52:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">chapter 24 verse 35</span>
+            </p>
+            <p begin="00:05:53:06" end="00:05:54:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Heaven and earth</span>
+            </p>
+            <p begin="00:05:54:05" end="00:05:55:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">shall pass away</span>
+            </p>
+            <p begin="00:05:55:15" end="00:05:57:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but my words shall not pass away</span>
+            </p>
+            <p begin="00:06:01:16" end="00:06:02:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">In the book of Matthew</span>
+            </p>
+            <p begin="00:06:02:25" end="00:06:05:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">chapter 24 verse 35</span>
+            </p>
+            <p begin="00:06:05:29" end="00:06:08:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Heaven and earth shall pass away</span>
+            </p>
+            <p begin="00:06:08:03" end="00:06:11:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but my words shall not pass away</span>
+            </p>
+            <p begin="00:06:11:26" end="00:06:12:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:06:14:07" end="00:06:15:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">From the book of Hebrews</span>
+            </p>
+            <p begin="00:06:15:07" end="00:06:16:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">chapter 13 verse 8</span>
+            </p>
+            <p begin="00:06:16:28" end="00:06:17:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and 9</span>
+            </p>
+            <p begin="00:06:18:17" end="00:06:20:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Jesus Christ the same</span>
+            </p>
+            <p begin="00:06:20:19" end="00:06:21:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">yesterday</span>
+            </p>
+            <p begin="00:06:21:27" end="00:06:22:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and today</span>
+            </p>
+            <p begin="00:06:22:27" end="00:06:23:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and forever</span>
+            </p>
+            <p begin="00:06:25:02" end="00:06:25:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Be not carried about</span>
+            </p>
+            <p begin="00:06:25:29" end="00:06:28:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">with divers and strange  doctrines.</span>
+            </p>
+            <p begin="00:06:28:11" end="00:06:29:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">For it is a good thing</span>
+            </p>
+            <p begin="00:06:29:14" end="00:06:31:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that the heart be established</span>
+            </p>
+            <p begin="00:06:31:03" end="00:06:31:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">with grace;</span>
+            </p>
+            <p begin="00:06:32:03" end="00:06:34:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">not with meats,</span>
+            </p>
+            <p begin="00:06:34:20" end="00:06:36:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">which have not profited them</span>
+            </p>
+            <p begin="00:06:36:17" end="00:06:38:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that have been occupied therein.</span>
+            </p>
+            <p begin="00:06:39:07" end="00:06:40:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Amen hallelujah</span>
+            </p>
+            <p begin="00:06:40:03" end="00:06:41:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">let's clap our hands</span>
+            </p>
+            <p begin="00:06:41:03" end="00:06:42:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to our dearest Lord</span>
+            </p>
+            <p begin="00:06:43:10" end="00:06:44:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">In the writings of Paul</span>
+            </p>
+            <p begin="00:06:44:22" end="00:06:46:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to the Hebrews</span>
+            </p>
+            <p begin="00:06:46:13" end="00:06:48:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">chapter 13 verses 8</span>
+            </p>
+            <p begin="00:06:48:19" end="00:06:49:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and 9</span>
+            </p>
+            <p begin="00:06:49:19" end="00:06:50:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Jesus Christ the same</span>
+            </p>
+            <p begin="00:06:50:28" end="00:06:51:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">yesterday</span>
+            </p>
+            <p begin="00:06:51:23" end="00:06:52:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and today</span>
+            </p>
+            <p begin="00:06:52:22" end="00:06:54:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and forever</span>
+            </p>
+            <p begin="00:06:54:17" end="00:06:55:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Be not carried about</span>
+            </p>
+            <p begin="00:06:55:18" end="00:06:57:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">with divers and strange  doctrines.</span>
+            </p>
+            <p begin="00:06:58:05" end="00:06:58:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">For it is a good thing</span>
+            </p>
+            <p begin="00:06:58:29" end="00:07:00:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that the heart be established</span>
+            </p>
+            <p begin="00:07:00:18" end="00:07:01:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">with grace;</span>
+            </p>
+            <p begin="00:07:02:01" end="00:07:04:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">not with meats,</span>
+            </p>
+            <p begin="00:07:04:05" end="00:07:05:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">which have not profited them</span>
+            </p>
+            <p begin="00:07:05:18" end="00:07:07:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that have been occupied therein.</span>
+            </p>
+            <p begin="00:07:08:10" end="00:07:09:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">God bless you beloved brother  Jun</span>
+            </p>
+            <p begin="00:07:09:29" end="00:07:11:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah let's clap our hands</span>
+            </p>
+            <p begin="00:07:11:11" end="00:07:12:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to our dear Lord</span>
+            </p>
+            <p begin="00:07:13:11" end="00:07:15:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Don't forget His work</span>
+            </p>
+            <p begin="00:07:15:18" end="00:07:17:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">146 times</span>
+            </p>
+            <p begin="00:07:18:04" end="00:07:19:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the word "remember"</span>
+            </p>
+            <p begin="00:07:19:20" end="00:07:22:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">is used in King James version</span>
+            </p>
+            <p begin="00:07:22:22" end="00:07:24:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">26 of them are in reference</span>
+            </p>
+            <p begin="00:07:24:22" end="00:07:26:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to recalling what God had done</span>
+            </p>
+            <p begin="00:07:26:16" end="00:07:27:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in the past amen</span>
+            </p>
+            <p begin="00:07:28:09" end="00:07:29:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">That's why it's so important</span>
+            </p>
+            <p begin="00:07:29:20" end="00:07:31:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">for us to celebrate amen</span>
+            </p>
+            <p begin="00:07:31:15" end="00:07:31:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:07:32:00" end="00:07:33:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Our gatherings as</span>
+            </p>
+            <p begin="00:07:33:14" end="00:07:35:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">as children of the most High God</span>
+            </p>
+            <p begin="00:07:35:22" end="00:07:37:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">here in the ministry of</span>
+            </p>
+            <p begin="00:07:37:00" end="00:07:38:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Jesus Miracle Crusade</span>
+            </p>
+            <p begin="00:07:38:09" end="00:07:41:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">how our dear Lord has saved us</span>
+            </p>
+            <p begin="00:07:41:25" end="00:07:44:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">how we have seen the miracles</span>
+            </p>
+            <p begin="00:07:44:06" end="00:07:46:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we didn't just see the miracles</span>
+            </p>
+            <p begin="00:07:46:11" end="00:07:47:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we have experienced them</span>
+            </p>
+            <p begin="00:07:47:19" end="00:07:49:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">our transformation brought by  God</span>
+            </p>
+            <p begin="00:07:49:08" end="00:07:51:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">healing of diseases amen</span>
+            </p>
+            <p begin="00:07:51:13" end="00:07:52:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:07:52:09" end="00:07:54:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Beloved let us remember</span>
+            </p>
+            <p begin="00:07:54:03" end="00:07:55:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">these things continually</span>
+            </p>
+            <p begin="00:07:55:17" end="00:07:56:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">because these are not jokes</span>
+            </p>
+            <p begin="00:07:56:25" end="00:07:58:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">these things that we have seen</span>
+            </p>
+            <p begin="00:07:58:25" end="00:08:00:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">do not happen to everyone</span>
+            </p>
+            <p begin="00:08:01:24" end="00:08:03:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">As a matter of fact</span>
+            </p>
+            <p begin="00:08:03:15" end="00:08:04:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">back then when we are not</span>
+            </p>
+            <p begin="00:08:04:19" end="00:08:05:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">yet in the truth</span>
+            </p>
+            <p begin="00:08:05:16" end="00:08:06:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">when we have not yet found</span>
+            </p>
+            <p begin="00:08:06:17" end="00:08:08:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the Jesus Miracle Crusade</span>
+            </p>
+            <p begin="00:08:09:16" end="00:08:10:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">miracles just seems to be</span>
+            </p>
+            <p begin="00:08:10:16" end="00:08:12:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">imaginations only</span>
+            </p>
+            <p begin="00:08:12:05" end="00:08:12:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:08:13:15" end="00:08:14:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">they said</span>
+            </p>
+            <p begin="00:08:14:13" end="00:08:15:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">those who were supposedly </span>
+            </p>
+            <p begin="00:08:15:18" end="00:08:16:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">preaching the word of God</span>
+            </p>
+            <p begin="00:08:16:20" end="00:08:17:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">miracles had happened</span>
+            </p>
+            <p begin="00:08:17:28" end="00:08:19:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">2,000 years ago</span>
+            </p>
+            <p begin="00:08:19:15" end="00:08:21:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">just something written in the  Bible</span>
+            </p>
+            <p begin="00:08:21:07" end="00:08:23:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and no longer happens these days</span>
+            </p>
+            <p begin="00:08:24:03" end="00:08:25:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">But the Bible says</span>
+            </p>
+            <p begin="00:08:25:08" end="00:08:27:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hebrews 13:8</span>
+            </p>
+            <p begin="00:08:27:09" end="00:08:28:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Jesus Christ</span>
+            </p>
+            <p begin="00:08:28:14" end="00:08:30:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">He is the same yesterday</span>
+            </p>
+            <p begin="00:08:30:18" end="00:08:32:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">today and forever</span>
+            </p>
+            <p begin="00:08:32:16" end="00:08:33:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:08:33:15" end="00:08:35:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Humans are the ones</span>
+            </p>
+            <p begin="00:08:35:15" end="00:08:37:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">who break the Word of God </span>
+            </p>
+            <p begin="00:08:37:05" end="00:08:37:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved</span>
+            </p>
+            <p begin="00:08:38:01" end="00:08:39:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">God will never change</span>
+            </p>
+            <p begin="00:08:39:24" end="00:08:41:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">if He is almighty then</span>
+            </p>
+            <p begin="00:08:41:28" end="00:08:43:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">until now, He is still almighty</span>
+            </p>
+            <p begin="00:08:43:26" end="00:08:45:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">He is the one who moves</span>
+            </p>
+            <p begin="00:08:45:10" end="00:08:47:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in our holy ministry</span>
+            </p>
+            <p begin="00:08:47:22" end="00:08:48:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">He is the one who moves</span>
+            </p>
+            <p begin="00:08:48:22" end="00:08:49:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in our lives</span>
+            </p>
+            <p begin="00:08:49:24" end="00:08:50:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Beloved brethren</span>
+            </p>
+            <p begin="00:08:50:22" end="00:08:51:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that's why our church worship</span>
+            </p>
+            <p begin="00:08:51:24" end="00:08:53:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">is very important</span>
+            </p>
+            <p begin="00:08:54:28" end="00:08:56:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">First John 1:7 says</span>
+            </p>
+            <p begin="00:08:56:11" end="00:08:57:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">But if we walk in the light</span>
+            </p>
+            <p begin="00:08:57:28" end="00:08:58:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">as He is in the light</span>
+            </p>
+            <p begin="00:08:58:27" end="00:09:00:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we have fellowship</span>
+            </p>
+            <p begin="00:09:00:16" end="00:09:02:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">one with another</span>
+            </p>
+            <p begin="00:09:02:14" end="00:09:04:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and the blood of Jesus Christ</span>
+            </p>
+            <p begin="00:09:04:10" end="00:09:05:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">his Son</span>
+            </p>
+            <p begin="00:09:05:00" end="00:09:07:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">cleanseth us from all sin amen</span>
+            </p>
+            <p begin="00:09:10:19" end="00:09:11:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">I John 1:7</span>
+            </p>
+            <p begin="00:09:15:15" end="00:09:16:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">First John</span>
+            </p>
+            <p begin="00:09:16:16" end="00:09:17:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">one</span>
+            </p>
+            <p begin="00:09:17:11" end="00:09:17:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">seven</span>
+            </p>
+            <p begin="00:09:18:07" end="00:09:18:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">But</span>
+            </p>
+            <p begin="00:09:19:24" end="00:09:21:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">if we walk in the light</span>
+            </p>
+            <p begin="00:09:22:14" end="00:09:24:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">as He is in the light</span>
+            </p>
+            <p begin="00:09:24:18" end="00:09:26:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we have fellowship</span>
+            </p>
+            <p begin="00:09:26:13" end="00:09:27:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">one with another</span>
+            </p>
+            <p begin="00:09:27:25" end="00:09:30:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and the blood of Jesus Christ</span>
+            </p>
+            <p begin="00:09:30:26" end="00:09:31:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">his Son</span>
+            </p>
+            <p begin="00:09:32:10" end="00:09:34:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">cleanseth us from all sin amen</span>
+            </p>
+            <p begin="00:09:34:19" end="00:09:36:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen hallelujah</span>
+            </p>
+            <p begin="00:09:42:27" end="00:09:43:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Here in</span>
+            </p>
+            <p begin="00:09:43:20" end="00:09:45:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">First John verse seven</span>
+            </p>
+            <p begin="00:09:46:24" end="00:09:48:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">But if we walk in the light</span>
+            </p>
+            <p begin="00:09:48:22" end="00:09:50:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">as He is in the light</span>
+            </p>
+            <p begin="00:09:50:13" end="00:09:50:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we have</span>
+            </p>
+            <p begin="00:09:50:28" end="00:09:51:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">fellowship</span>
+            </p>
+            <p begin="00:09:51:18" end="00:09:52:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">one with another</span>
+            </p>
+            <p begin="00:09:52:20" end="00:09:55:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and the blood of Jesus Christ</span>
+            </p>
+            <p begin="00:09:55:13" end="00:09:56:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">His Son</span>
+            </p>
+            <p begin="00:09:57:08" end="00:09:59:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">cleanseth us from all sin</span>
+            </p>
+            <p begin="00:09:59:29" end="00:10:01:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah let's clap our hands</span>
+            </p>
+            <p begin="00:10:01:23" end="00:10:03:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to our dear Lord Hallelujah</span>
+            </p>
+            <p begin="00:10:04:12" end="00:10:07:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Beloved, that's why when we  worship</span>
+            </p>
+            <p begin="00:10:08:28" end="00:10:11:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">It says in Psalms 1:1-6</span>
+            </p>
+            <p begin="00:10:11:24" end="00:10:14:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the righteous and wicked  contrasted</span>
+            </p>
+            <p begin="00:10:15:08" end="00:10:17:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">here in these verses beloved</span>
+            </p>
+            <p begin="00:10:17:18" end="00:10:18:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">it says</span>
+            </p>
+            <p begin="00:10:18:10" end="00:10:19:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Blessed is the man</span>
+            </p>
+            <p begin="00:10:19:12" end="00:10:20:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that walketh not</span>
+            </p>
+            <p begin="00:10:20:07" end="00:10:21:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in the counsel of the ungodly</span>
+            </p>
+            <p begin="00:10:21:28" end="00:10:23:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">nor standeth in the way of  sinners</span>
+            </p>
+            <p begin="00:10:23:29" end="00:10:24:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">nor sitteth in the seat</span>
+            </p>
+            <p begin="00:10:24:27" end="00:10:27:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in the seat of the scornful</span>
+            </p>
+            <p begin="00:10:27:11" end="00:10:28:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">But his delight is in</span>
+            </p>
+            <p begin="00:10:29:08" end="00:10:30:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">is in the law of the Lord</span>
+            </p>
+            <p begin="00:10:31:03" end="00:10:32:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and in His law</span>
+            </p>
+            <p begin="00:10:32:25" end="00:10:33:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">doth he meditate</span>
+            </p>
+            <p begin="00:10:34:08" end="00:10:36:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">meditate day and night amen</span>
+            </p>
+            <p begin="00:10:37:03" end="00:10:38:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and he shall be like a tree</span>
+            </p>
+            <p begin="00:10:38:18" end="00:10:40:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">planted by the rivers of water</span>
+            </p>
+            <p begin="00:10:40:18" end="00:10:41:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that bringeth forth his fruit</span>
+            </p>
+            <p begin="00:10:41:19" end="00:10:43:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in his season</span>
+            </p>
+            <p begin="00:10:43:22" end="00:10:45:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">his leaf also shall not wither</span>
+            </p>
+            <p begin="00:10:45:28" end="00:10:47:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and whatsoever he doeth</span>
+            </p>
+            <p begin="00:10:47:17" end="00:10:49:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">shall prosper</span>
+            </p>
+            <p begin="00:10:50:04" end="00:10:52:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but the ungodly are not so</span>
+            </p>
+            <p begin="00:10:52:29" end="00:10:54:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but are like the chaff</span>
+            </p>
+            <p begin="00:10:54:07" end="00:10:56:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">which the wind driveth away</span>
+            </p>
+            <p begin="00:10:56:18" end="00:10:57:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Therefore the ungodly</span>
+            </p>
+            <p begin="00:10:57:20" end="00:10:59:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">shall not stand in the judgment</span>
+            </p>
+            <p begin="00:10:59:08" end="00:11:01:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">nor sinners in the</span>
+            </p>
+            <p begin="00:11:01:03" end="00:11:02:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">congregation of the  righteous</span>
+            </p>
+            <p begin="00:11:02:25" end="00:11:04:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">For the Lord knoweth</span>
+            </p>
+            <p begin="00:11:04:15" end="00:11:05:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the way of the righteous:</span>
+            </p>
+            <p begin="00:11:05:23" end="00:11:08:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but the way of the ungodly</span>
+            </p>
+            <p begin="00:11:08:07" end="00:11:09:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">shall perish</span>
+            </p>
+            <p begin="00:11:10:05" end="00:11:11:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Beloved, that is</span>
+            </p>
+            <p begin="00:11:11:01" end="00:11:12:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">what's happening nowadays</span>
+            </p>
+            <p begin="00:11:12:05" end="00:11:14:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">(before the verses get read)</span>
+            </p>
+            <p begin="00:11:14:09" end="00:11:15:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">In our surroundings</span>
+            </p>
+            <p begin="00:11:15:12" end="00:11:17:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">even when we're not yet in..</span>
+            </p>
+            <p begin="00:11:17:07" end="00:11:18:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in the holy ministry of</span>
+            </p>
+            <p begin="00:11:18:05" end="00:11:18:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">our dear Lord</span>
+            </p>
+            <p begin="00:11:18:27" end="00:11:20:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">We have no direction</span>
+            </p>
+            <p begin="00:11:21:04" end="00:11:23:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">We have no future</span>
+            </p>
+            <p begin="00:11:23:11" end="00:11:25:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">nor awaiting for any</span>
+            </p>
+            <p begin="00:11:25:16" end="00:11:26:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">secured</span>
+            </p>
+            <p begin="00:11:26:21" end="00:11:27:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">future for ourselves</span>
+            </p>
+            <p begin="00:11:27:22" end="00:11:28:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:11:28:17" end="00:11:29:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">there's no such thing as</span>
+            </p>
+            <p begin="00:11:29:19" end="00:11:30:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">secured future</span>
+            </p>
+            <p begin="00:11:31:19" end="00:11:32:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">because</span>
+            </p>
+            <p begin="00:11:32:17" end="00:11:35:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">It says in Hebrews 9:27</span>
+            </p>
+            <p begin="00:11:35:10" end="00:11:36:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">It is appointed unto men</span>
+            </p>
+            <p begin="00:11:36:13" end="00:11:37:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">once to die</span>
+            </p>
+            <p begin="00:11:37:03" end="00:11:38:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but after this, the judgment</span>
+            </p>
+            <p begin="00:11:39:11" end="00:11:40:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">all human beings will die</span>
+            </p>
+            <p begin="00:11:40:26" end="00:11:43:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">all things will come to an end</span>
+            </p>
+            <p begin="00:11:43:17" end="00:11:45:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">what are people saving up for?</span>
+            </p>
+            <p begin="00:11:46:14" end="00:11:47:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">It says in Mark 8:36</span>
+            </p>
+            <p begin="00:11:47:26" end="00:11:50:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">For what shall it profit a man</span>
+            </p>
+            <p begin="00:11:50:16" end="00:11:52:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">if he shall gain the whole world</span>
+            </p>
+            <p begin="00:11:52:06" end="00:11:53:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and lose his own soul?</span>
+            </p>
+            <p begin="00:11:54:12" end="00:11:55:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">what the worldly</span>
+            </p>
+            <p begin="00:11:55:06" end="00:11:56:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">had saved up for</span>
+            </p>
+            <p begin="00:11:56:01" end="00:11:56:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">will be meaningless</span>
+            </p>
+            <p begin="00:11:56:24" end="00:11:57:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:11:57:11" end="00:11:59:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">our pursuit to get rich</span>
+            </p>
+            <p begin="00:11:59:26" end="00:12:02:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">if Christ is not in our hearts</span>
+            </p>
+            <p begin="00:12:02:24" end="00:12:05:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">if Christ is not in our lives</span>
+            </p>
+            <p begin="00:12:05:22" end="00:12:07:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">if Christ is not the center</span>
+            </p>
+            <p begin="00:12:07:22" end="00:12:09:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">of our lives</span>
+            </p>
+            <p begin="00:12:09:05" end="00:12:11:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">everything will be meaningless</span>
+            </p>
+            <p begin="00:12:11:19" end="00:12:13:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">because the future of humans</span>
+            </p>
+            <p begin="00:12:13:10" end="00:12:14:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">ends in destruction</span>
+            </p>
+            <p begin="00:12:14:17" end="00:12:15:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">if he or she will not</span>
+            </p>
+            <p begin="00:12:15:10" end="00:12:16:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">serve our dear Lord</span>
+            </p>
+            <p begin="00:12:16:17" end="00:12:17:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">praise the Lord</span>
+            </p>
+            <p begin="00:12:18:09" end="00:12:20:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Psalms 1, 1 up to 6</span>
+            </p>
+            <p begin="00:12:20:04" end="00:12:21:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Praise the Lord</span>
+            </p>
+            <p begin="00:12:21:17" end="00:12:24:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Psalms chapter 1 verse 1 up to 6</span>
+            </p>
+            <p begin="00:12:25:03" end="00:12:26:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Blessed is the man</span>
+            </p>
+            <p begin="00:12:26:06" end="00:12:27:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that walketh not in the</span>
+            </p>
+            <p begin="00:12:27:12" end="00:12:28:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">counsel of the ungodly</span>
+            </p>
+            <p begin="00:12:29:16" end="00:12:32:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">nor standeth in the way of  sinners</span>
+            </p>
+            <p begin="00:12:32:26" end="00:12:35:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">nor sitteth in the seat of the  scornful</span>
+            </p>
+            <p begin="00:12:36:18" end="00:12:38:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">But his delight is in</span>
+            </p>
+            <p begin="00:12:38:06" end="00:12:39:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the law of the Lord</span>
+            </p>
+            <p begin="00:12:40:09" end="00:12:41:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and in His law</span>
+            </p>
+            <p begin="00:12:41:23" end="00:12:43:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">doth he meditate</span>
+            </p>
+            <p begin="00:12:43:07" end="00:12:44:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">day and night</span>
+            </p>
+            <p begin="00:12:44:20" end="00:12:46:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">And he shall be like a tree</span>
+            </p>
+            <p begin="00:12:46:24" end="00:12:49:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">planted by the rivers of water</span>
+            </p>
+            <p begin="00:12:50:05" end="00:12:51:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that bringeth forth his fruit</span>
+            </p>
+            <p begin="00:12:51:09" end="00:12:52:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in His season</span>
+            </p>
+            <p begin="00:12:52:24" end="00:12:55:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">his leaf also shall not wither</span>
+            </p>
+            <p begin="00:12:56:00" end="00:12:58:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and whatsoever he doeth</span>
+            </p>
+            <p begin="00:12:58:05" end="00:12:59:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">shall prosper</span>
+            </p>
+            <p begin="00:12:59:29" end="00:13:01:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The ungodly are not so</span>
+            </p>
+            <p begin="00:13:02:01" end="00:13:03:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but are like the chaff</span>
+            </p>
+            <p begin="00:13:03:24" end="00:13:05:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">which the wind driveth away</span>
+            </p>
+            <p begin="00:13:06:00" end="00:13:07:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Therefore the ungodly</span>
+            </p>
+            <p begin="00:13:07:02" end="00:13:09:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">shall not stand in the judgment</span>
+            </p>
+            <p begin="00:13:09:00" end="00:13:09:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">nor sinners in the</span>
+            </p>
+            <p begin="00:13:09:28" end="00:13:12:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">congregation of the righteous</span>
+            </p>
+            <p begin="00:13:12:27" end="00:13:14:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">For the Lord knoweth the</span>
+            </p>
+            <p begin="00:13:15:00" end="00:13:17:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the way of the righteous:</span>
+            </p>
+            <p begin="00:13:17:19" end="00:13:18:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but</span>
+            </p>
+            <p begin="00:13:18:11" end="00:13:19:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the way of the ungodly</span>
+            </p>
+            <p begin="00:13:19:21" end="00:13:20:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">shall perish</span>
+            </p>
+            <p begin="00:13:25:26" end="00:13:27:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that's why beloved brethren</span>
+            </p>
+            <p begin="00:13:27:26" end="00:13:29:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we are the most blessed</span>
+            </p>
+            <p begin="00:13:29:06" end="00:13:30:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">among the blessed</span>
+            </p>
+            <p begin="00:13:30:06" end="00:13:31:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">because we are here listening</span>
+            </p>
+            <p begin="00:13:31:28" end="00:13:33:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to the true Word of God</span>
+            </p>
+            <p begin="00:13:33:28" end="00:13:35:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">not just the Word of God</span>
+            </p>
+            <p begin="00:13:35:21" end="00:13:36:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Word of God</span>
+            </p>
+            <p begin="00:13:37:10" end="00:13:38:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">wherein</span>
+            </p>
+            <p begin="00:13:38:27" end="00:13:43:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the power of our dear Lord  manifests amen</span>
+            </p>
+            <p begin="00:13:44:22" end="00:13:46:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the bible says, "faith comes</span>
+            </p>
+            <p begin="00:13:46:26" end="00:13:47:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">by hearing</span>
+            </p>
+            <p begin="00:13:47:22" end="00:13:49:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and hearing by the word of God"</span>
+            </p>
+            <p begin="00:13:50:17" end="00:13:51:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">And without faith</span>
+            </p>
+            <p begin="00:13:51:13" end="00:13:52:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">it it impossible to</span>
+            </p>
+            <p begin="00:13:52:19" end="00:13:53:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">please God</span>
+            </p>
+            <p begin="00:13:54:20" end="00:13:56:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">How can we have salvation</span>
+            </p>
+            <p begin="00:13:56:15" end="00:13:57:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">if we do not attend the church</span>
+            </p>
+            <p begin="00:13:58:00" end="00:13:58:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">if we do not</span>
+            </p>
+            <p begin="00:13:58:29" end="00:13:59:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">if we do not worship</span>
+            </p>
+            <p begin="00:13:59:25" end="00:14:01:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">if we do not serve God</span>
+            </p>
+            <p begin="00:14:02:19" end="00:14:03:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:14:04:19" end="00:14:05:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The bible says</span>
+            </p>
+            <p begin="00:14:05:18" end="00:14:08:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we cannot live by bread alone</span>
+            </p>
+            <p begin="00:14:09:06" end="00:14:10:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Man shall not live</span>
+            </p>
+            <p begin="00:14:10:15" end="00:14:11:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">by bread alone</span>
+            </p>
+            <p begin="00:14:11:10" end="00:14:12:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but by every word</span>
+            </p>
+            <p begin="00:14:12:22" end="00:14:14:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that proceedeth out of</span>
+            </p>
+            <p begin="00:14:14:00" end="00:14:15:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the mouth of God</span>
+            </p>
+            <p begin="00:14:15:19" end="00:14:17:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Beloved brethren, we need</span>
+            </p>
+            <p begin="00:14:17:11" end="00:14:19:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">our dear Lord in our lives</span>
+            </p>
+            <p begin="00:14:20:11" end="00:14:22:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">We have seen people come and go</span>
+            </p>
+            <p begin="00:14:22:11" end="00:14:24:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">within our holy church</span>
+            </p>
+            <p begin="00:14:24:24" end="00:14:26:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">for the last 43 years</span>
+            </p>
+            <p begin="00:14:27:05" end="00:14:29:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the preaching of the gospel</span>
+            </p>
+            <p begin="00:14:29:25" end="00:14:30:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">of salvation</span>
+            </p>
+            <p begin="00:14:30:23" end="00:14:32:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">by our beloved parents in the  Lord</span>
+            </p>
+            <p begin="00:14:33:08" end="00:14:34:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Beloved Pastor</span>
+            </p>
+            <p begin="00:14:34:07" end="00:14:35:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Evangelist Wilde Estrada Almeda</span>
+            </p>
+            <p begin="00:14:35:20" end="00:14:37:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">how the people listened</span>
+            </p>
+            <p begin="00:14:37:23" end="00:14:39:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and they were blessed</span>
+            </p>
+            <p begin="00:14:39:09" end="00:14:40:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Those who were former</span>
+            </p>
+            <p begin="00:14:40:23" end="00:14:42:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">murderers</span>
+            </p>
+            <p begin="00:14:42:09" end="00:14:43:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">are now serving God</span>
+            </p>
+            <p begin="00:14:43:23" end="00:14:45:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in this church</span>
+            </p>
+            <p begin="00:14:45:07" end="00:14:46:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren amen</span>
+            </p>
+            <p begin="00:14:47:15" end="00:14:49:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Former hardened criminals</span>
+            </p>
+            <p begin="00:14:49:12" end="00:14:51:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">now serving the Lord</span>
+            </p>
+            <p begin="00:14:51:00" end="00:14:52:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">they're so kind now</span>
+            </p>
+            <p begin="00:14:52:06" end="00:14:53:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:14:53:18" end="00:14:55:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Strongly proving that</span>
+            </p>
+            <p begin="00:14:55:03" end="00:14:56:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the gospel is true</span>
+            </p>
+            <p begin="00:14:56:24" end="00:14:58:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:14:59:15" end="00:15:00:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Cancer</span>
+            </p>
+            <p begin="00:15:00:06" end="00:15:02:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">our dear Lord heals it</span>
+            </p>
+            <p begin="00:15:03:10" end="00:15:04:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved sis. Tong</span>
+            </p>
+            <p begin="00:15:05:19" end="00:15:07:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">for the last two, three years</span>
+            </p>
+            <p begin="00:15:07:16" end="00:15:07:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:15:08:07" end="00:15:09:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">she was already bald</span>
+            </p>
+            <p begin="00:15:09:08" end="00:15:10:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:15:10:08" end="00:15:12:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">from her chemotherapy</span>
+            </p>
+            <p begin="00:15:12:02" end="00:15:13:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but now her hair is thick</span>
+            </p>
+            <p begin="00:15:13:10" end="00:15:14:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">her own hair grew back</span>
+            </p>
+            <p begin="00:15:14:15" end="00:15:15:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:15:15:05" end="00:15:16:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that's healing from</span>
+            </p>
+            <p begin="00:15:16:25" end="00:15:18:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">our dear Lord</span>
+            </p>
+            <p begin="00:15:18:24" end="00:15:19:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved sis. Archie</span>
+            </p>
+            <p begin="00:15:19:26" end="00:15:20:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:15:20:17" end="00:15:22:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we will mention repeatedly</span>
+            </p>
+            <p begin="00:15:22:29" end="00:15:24:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">whatever you are going through</span>
+            </p>
+            <p begin="00:15:24:29" end="00:15:26:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in your life</span>
+            </p>
+            <p begin="00:15:26:11" end="00:15:28:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">you thought God is not moving</span>
+            </p>
+            <p begin="00:15:28:11" end="00:15:29:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in your life</span>
+            </p>
+            <p begin="00:15:29:17" end="00:15:30:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but no</span>
+            </p>
+            <p begin="00:15:31:05" end="00:15:32:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">God will never change</span>
+            </p>
+            <p begin="00:15:32:13" end="00:15:34:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">God is still powerful</span>
+            </p>
+            <p begin="00:15:34:13" end="00:15:34:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:15:35:12" end="00:15:36:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah</span>
+            </p>
+            <p begin="00:15:36:06" end="00:15:37:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">our dear loving God</span>
+            </p>
+            <p begin="00:15:37:08" end="00:15:38:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">is just waiting for us</span>
+            </p>
+            <p begin="00:15:38:22" end="00:15:41:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to listen to His holy word</span>
+            </p>
+            <p begin="00:15:42:04" end="00:15:44:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">let us fulfill His commandments</span>
+            </p>
+            <p begin="00:15:44:01" end="00:15:44:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:15:44:22" end="00:15:45:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">let us obey</span>
+            </p>
+            <p begin="00:15:46:11" end="00:15:47:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">keep them in our hearts</span>
+            </p>
+            <p begin="00:15:47:20" end="00:15:48:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">live them out</span>
+            </p>
+            <p begin="00:15:48:18" end="00:15:49:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:15:49:25" end="00:15:50:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">for without God</span>
+            </p>
+            <p begin="00:15:50:26" end="00:15:51:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:15:51:23" end="00:15:53:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">It says in Romans 8:9</span>
+            </p>
+            <p begin="00:15:53:16" end="00:15:54:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Without the spirit of God</span>
+            </p>
+            <p begin="00:15:54:17" end="00:15:55:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">without the spirit of Christ</span>
+            </p>
+            <p begin="00:15:56:09" end="00:15:57:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we are none of His</span>
+            </p>
+            <p begin="00:15:59:05" end="00:16:00:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Beloved brethren</span>
+            </p>
+            <p begin="00:16:00:06" end="00:16:01:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we have no certainty</span>
+            </p>
+            <p begin="00:16:01:18" end="00:16:03:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">if we are not within the church</span>
+            </p>
+            <p begin="00:16:04:05" end="00:16:04:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Let us</span>
+            </p>
+            <p begin="00:16:05:14" end="00:16:06:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">work diligently</span>
+            </p>
+            <p begin="00:16:06:15" end="00:16:07:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in serving the Lord</span>
+            </p>
+            <p begin="00:16:08:07" end="00:16:08:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">with</span>
+            </p>
+            <p begin="00:16:11:16" end="00:16:12:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">with long suffering</span>
+            </p>
+            <p begin="00:16:12:13" end="00:16:13:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">patience beloved brethren</span>
+            </p>
+            <p begin="00:16:13:14" end="00:16:14:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we have already found the truth</span>
+            </p>
+            <p begin="00:16:14:28" end="00:16:16:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">let us not depart from it</span>
+            </p>
+            <p begin="00:16:16:04" end="00:16:16:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:16:17:18" end="00:16:19:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">let us remember the teachings</span>
+            </p>
+            <p begin="00:16:19:18" end="00:16:21:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">of our beloved parents in the  Lord</span>
+            </p>
+            <p begin="00:16:21:20" end="00:16:22:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that</span>
+            </p>
+            <p begin="00:16:22:05" end="00:16:22:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">there is</span>
+            </p>
+            <p begin="00:16:22:17" end="00:16:23:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">only one God that</span>
+            </p>
+            <p begin="00:16:23:16" end="00:16:24:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we should worship</span>
+            </p>
+            <p begin="00:16:25:09" end="00:16:26:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Don't let your money</span>
+            </p>
+            <p begin="00:16:26:12" end="00:16:27:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">be your God</span>
+            </p>
+            <p begin="00:16:27:20" end="00:16:28:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:16:29:25" end="00:16:30:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">there are so many gods</span>
+            </p>
+            <p begin="00:16:30:27" end="00:16:31:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:16:31:20" end="00:16:32:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">here in this world</span>
+            </p>
+            <p begin="00:16:32:29" end="00:16:34:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that we live in</span>
+            </p>
+            <p begin="00:16:34:23" end="00:16:35:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:16:35:20" end="00:16:37:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Deuteronomy 6:4 says</span>
+            </p>
+            <p begin="00:16:37:23" end="00:16:38:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hear, O Israel:</span>
+            </p>
+            <p begin="00:16:38:24" end="00:16:40:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The Lord our God is one Lord</span>
+            </p>
+            <p begin="00:16:41:24" end="00:16:42:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and the Bible says:</span>
+            </p>
+            <p begin="00:16:42:24" end="00:16:44:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">I even I am the Lord</span>
+            </p>
+            <p begin="00:16:44:12" end="00:16:45:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and beside me</span>
+            </p>
+            <p begin="00:16:45:11" end="00:16:46:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">there is no savior</span>
+            </p>
+            <p begin="00:16:47:12" end="00:16:48:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Praise the Lord. Kindly please.</span>
+            </p>
+            <p begin="00:16:49:17" end="00:16:50:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">From the book of Deuteronomy</span>
+            </p>
+            <p begin="00:16:50:18" end="00:16:51:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">chapter</span>
+            </p>
+            <p begin="00:16:52:00" end="00:16:52:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">six</span>
+            </p>
+            <p begin="00:16:53:01" end="00:16:54:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">verse four</span>
+            </p>
+            <p begin="00:16:55:21" end="00:16:56:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hear, O Israel:</span>
+            </p>
+            <p begin="00:16:56:23" end="00:16:58:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The Lord our God is one Lord</span>
+            </p>
+            <p begin="00:17:00:01" end="00:17:01:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Deuteronomy</span>
+            </p>
+            <p begin="00:17:01:12" end="00:17:02:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">6:4</span>
+            </p>
+            <p begin="00:17:03:28" end="00:17:05:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hear O Israel:</span>
+            </p>
+            <p begin="00:17:06:04" end="00:17:09:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The Lord our God is one Lord</span>
+            </p>
+            <p begin="00:17:09:09" end="00:17:10:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Amen hallelujah</span>
+            </p>
+            <p begin="00:17:11:13" end="00:17:12:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">43:11</span>
+            </p>
+            <p begin="00:17:12:14" end="00:17:13:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Isaiah</span>
+            </p>
+            <p begin="00:17:16:18" end="00:17:18:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Isaiah 43</span>
+            </p>
+            <p begin="00:17:19:12" end="00:17:21:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">verse 10 up to 11</span>
+            </p>
+            <p begin="00:17:23:11" end="00:17:25:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Ye are my witnesses, saith the  Lord,</span>
+            </p>
+            <p begin="00:17:25:16" end="00:17:26:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and my servant</span>
+            </p>
+            <p begin="00:17:27:01" end="00:17:28:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">whom I have chosen:</span>
+            </p>
+            <p begin="00:17:28:08" end="00:17:32:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that ye may know and believe me,</span>
+            </p>
+            <p begin="00:17:32:25" end="00:17:34:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and understand</span>
+            </p>
+            <p begin="00:17:35:02" end="00:17:36:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that I am he:</span>
+            </p>
+            <p begin="00:17:37:21" end="00:17:39:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">before me</span>
+            </p>
+            <p begin="00:17:40:28" end="00:17:42:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">there was no God formed,</span>
+            </p>
+            <p begin="00:17:42:25" end="00:17:46:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Neither shall there be after me</span>
+            </p>
+            <p begin="00:17:47:12" end="00:17:50:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">I, even I, am the Lord;</span>
+            </p>
+            <p begin="00:17:50:25" end="00:17:52:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and beside me</span>
+            </p>
+            <p begin="00:17:53:18" end="00:17:54:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">there is no saviour.</span>
+            </p>
+            <p begin="00:17:55:20" end="00:17:56:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:17:56:08" end="00:17:57:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">First Corinthians 8:6</span>
+            </p>
+            <p begin="00:17:57:22" end="00:17:58:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">tagalog kindly follow</span>
+            </p>
+            <p begin="00:18:00:01" end="00:18:01:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">From the book of Isaiah</span>
+            </p>
+            <p begin="00:18:01:06" end="00:18:03:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">chapter 43 verses 10 and 11</span>
+            </p>
+            <p begin="00:18:04:07" end="00:18:06:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Ye are my witnesses, saith the  Lord,</span>
+            </p>
+            <p begin="00:18:06:20" end="00:18:08:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and my servant whom I have  chosen</span>
+            </p>
+            <p begin="00:18:09:09" end="00:18:11:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that ye may know and believe me,</span>
+            </p>
+            <p begin="00:18:11:14" end="00:18:14:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and understand that I am he:</span>
+            </p>
+            <p begin="00:18:14:21" end="00:18:16:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">before me there was no God</span>
+            </p>
+            <p begin="00:18:17:05" end="00:18:17:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">formed,</span>
+            </p>
+            <p begin="00:18:17:19" end="00:18:18:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">neither shall</span>
+            </p>
+            <p begin="00:18:18:19" end="00:18:19:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">there be after me</span>
+            </p>
+            <p begin="00:18:20:08" end="00:18:21:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">I, even I</span>
+            </p>
+            <p begin="00:18:21:25" end="00:18:22:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">am the Lord;</span>
+            </p>
+            <p begin="00:18:22:20" end="00:18:23:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and beside me</span>
+            </p>
+            <p begin="00:18:23:17" end="00:18:24:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">there is no saviour.</span>
+            </p>
+            <p begin="00:18:25:11" end="00:18:26:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Amen hallelujah</span>
+            </p>
+            <p begin="00:18:27:20" end="00:18:28:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">First Corinthians</span>
+            </p>
+            <p begin="00:18:29:14" end="00:18:30:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">8:6</span>
+            </p>
+            <p begin="00:18:31:14" end="00:18:33:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">But to us there is but one God,</span>
+            </p>
+            <p begin="00:18:34:11" end="00:18:36:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the Father, of whom</span>
+            </p>
+            <p begin="00:18:36:07" end="00:18:37:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">whom are all things,</span>
+            </p>
+            <p begin="00:18:37:25" end="00:18:39:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and we in him;</span>
+            </p>
+            <p begin="00:18:39:28" end="00:18:41:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and one Lord Jesus Christ,</span>
+            </p>
+            <p begin="00:18:41:17" end="00:18:43:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">by whom are all things,</span>
+            </p>
+            <p begin="00:18:43:23" end="00:18:45:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and we by him. Amen.</span>
+            </p>
+            <p begin="00:18:45:10" end="00:18:46:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Amen hallelujah</span>
+            </p>
+            <p begin="00:18:46:27" end="00:18:47:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Praise the Lord.</span>
+            </p>
+            <p begin="00:18:47:21" end="00:18:48:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">First Corinthians</span>
+            </p>
+            <p begin="00:18:48:28" end="00:18:50:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">chapter 8 verse 6</span>
+            </p>
+            <p begin="00:18:51:09" end="00:18:54:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">But to us there is but one God,</span>
+            </p>
+            <p begin="00:18:54:25" end="00:18:56:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the Father, of whom</span>
+            </p>
+            <p begin="00:18:56:05" end="00:18:57:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">are all things,</span>
+            </p>
+            <p begin="00:18:58:05" end="00:19:00:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and we in him;</span>
+            </p>
+            <p begin="00:19:01:01" end="00:19:04:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and one Lord Jesus Christ,</span>
+            </p>
+            <p begin="00:19:04:20" end="00:19:07:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">by whom are all things,</span>
+            </p>
+            <p begin="00:19:07:15" end="00:19:10:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and we by him. Amen.</span>
+            </p>
+            <p begin="00:19:11:11" end="00:19:11:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah</span>
+            </p>
+            <p begin="00:19:11:29" end="00:19:13:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">According to the preaching</span>
+            </p>
+            <p begin="00:19:13:15" end="00:19:14:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">of our beloved Pastor</span>
+            </p>
+            <p begin="00:19:14:06" end="00:19:14:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Jesus</span>
+            </p>
+            <p begin="00:19:15:05" end="00:19:16:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">became a son</span>
+            </p>
+            <p begin="00:19:16:00" end="00:19:16:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">two thousand</span>
+            </p>
+            <p begin="00:19:16:21" end="00:19:18:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">more than two thousand years ago</span>
+            </p>
+            <p begin="00:19:20:00" end="00:19:21:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">In the bible</span>
+            </p>
+            <p begin="00:19:21:12" end="00:19:23:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Isaiah 9:6 says</span>
+            </p>
+            <p begin="00:19:23:02" end="00:19:24:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">while that verse is being  prepared</span>
+            </p>
+            <p begin="00:19:24:26" end="00:19:26:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Jesus Christ created the heavens</span>
+            </p>
+            <p begin="00:19:26:20" end="00:19:27:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and the earth</span>
+            </p>
+            <p begin="00:19:27:23" end="00:19:29:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">He is the first and the last</span>
+            </p>
+            <p begin="00:19:29:07" end="00:19:30:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">as the book of Revelation says</span>
+            </p>
+            <p begin="00:19:30:21" end="00:19:32:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">As a son, he was born in</span>
+            </p>
+            <p begin="00:19:32:04" end="00:19:33:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in Bethlehem</span>
+            </p>
+            <p begin="00:19:34:00" end="00:19:34:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:19:35:29" end="00:19:37:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">He put on human form</span>
+            </p>
+            <p begin="00:19:38:12" end="00:19:40:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">He is God, who became flesh</span>
+            </p>
+            <p begin="00:19:40:00" end="00:19:41:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and came down on earth amen</span>
+            </p>
+            <p begin="00:19:41:22" end="00:19:42:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">But there is only</span>
+            </p>
+            <p begin="00:19:42:22" end="00:19:44:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but one God the Father amen</span>
+            </p>
+            <p begin="00:19:45:13" end="00:19:48:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">John 1:14 The Word became flesh</span>
+            </p>
+            <p begin="00:19:49:15" end="00:19:50:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">In verse 10</span>
+            </p>
+            <p begin="00:19:50:23" end="00:19:53:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The Word created the heavens</span>
+            </p>
+            <p begin="00:19:53:00" end="00:19:53:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and the earth</span>
+            </p>
+            <p begin="00:19:54:05" end="00:19:55:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">In verse 14</span>
+            </p>
+            <p begin="00:19:56:15" end="00:19:58:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The Word created the heavens</span>
+            </p>
+            <p begin="00:19:58:23" end="00:19:59:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and the earth amen</span>
+            </p>
+            <p begin="00:19:59:28" end="00:20:00:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the Word who is God</span>
+            </p>
+            <p begin="00:20:00:27" end="00:20:02:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">became human form</span>
+            </p>
+            <p begin="00:20:02:09" end="00:20:04:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">No doubt Jesus Christ is man</span>
+            </p>
+            <p begin="00:20:04:04" end="00:20:05:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">He is the Son of God</span>
+            </p>
+            <p begin="00:20:06:28" end="00:20:08:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Jesus Christ is God</span>
+            </p>
+            <p begin="00:20:08:06" end="00:20:09:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">He is God the Father</span>
+            </p>
+            <p begin="00:20:10:00" end="00:20:12:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the Creator of the universe amen</span>
+            </p>
+            <p begin="00:20:12:08" end="00:20:14:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Let's clap our hands to our dear Lord</span>
+            </p>
+            <p begin="00:20:14:22" end="00:20:16:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Kindly please. Praise the Lord.</span>
+            </p>
+            <p begin="00:20:16:26" end="00:20:18:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Here in the book of Isaiah</span>
+            </p>
+            <p begin="00:20:18:11" end="00:20:20:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">chapter 9 verse 6</span>
+            </p>
+            <p begin="00:20:20:26" end="00:20:23:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">For unto us a child is born,</span>
+            </p>
+            <p begin="00:20:23:12" end="00:20:26:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">unto us a son is given:</span>
+            </p>
+            <p begin="00:20:26:13" end="00:20:28:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and the government shall be</span>
+            </p>
+            <p begin="00:20:28:06" end="00:20:29:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">upon his shoulder:</span>
+            </p>
+            <p begin="00:20:29:23" end="00:20:31:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and his name shall be called</span>
+            </p>
+            <p begin="00:20:31:27" end="00:20:33:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Wonderful,</span>
+            </p>
+            <p begin="00:20:33:06" end="00:20:34:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Counsellor,</span>
+            </p>
+            <p begin="00:20:34:08" end="00:20:35:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The mighty God,</span>
+            </p>
+            <p begin="00:20:35:16" end="00:20:36:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The Everlasting Father</span>
+            </p>
+            <p begin="00:20:36:25" end="00:20:38:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The Prince of Peace.</span>
+            </p>
+            <p begin="00:20:38:19" end="00:20:39:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:20:39:14" end="00:20:40:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Let us clap our hands</span>
+            </p>
+            <p begin="00:20:40:22" end="00:20:41:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to our dear Lord</span>
+            </p>
+            <p begin="00:20:42:26" end="00:20:45:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">It also says in Revelation 1:7  and 8</span>
+            </p>
+            <p begin="00:20:45:06" end="00:20:46:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Behold, he cometh with clouds;</span>
+            </p>
+            <p begin="00:20:46:26" end="00:20:49:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and every eye shall see him,</span>
+            </p>
+            <p begin="00:20:49:24" end="00:20:52:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and they also which pierced him:</span>
+            </p>
+            <p begin="00:20:52:14" end="00:20:53:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and all kindreds of the earth</span>
+            </p>
+            <p begin="00:20:53:25" end="00:20:55:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">shall wail because of him.</span>
+            </p>
+            <p begin="00:20:55:18" end="00:20:56:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Even so, Amen.</span>
+            </p>
+            <p begin="00:20:57:05" end="00:20:59:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">I am Alpha and Omega,</span>
+            </p>
+            <p begin="00:20:59:03" end="00:21:00:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the beginning and the ending,</span>
+            </p>
+            <p begin="00:21:00:27" end="00:21:01:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">saith the Lord,</span>
+            </p>
+            <p begin="00:21:01:22" end="00:21:02:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">which is,</span>
+            </p>
+            <p begin="00:21:02:27" end="00:21:03:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">which was,</span>
+            </p>
+            <p begin="00:21:03:18" end="00:21:05:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and which is to come,</span>
+            </p>
+            <p begin="00:21:05:00" end="00:21:06:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the Almighty. Amen.</span>
+            </p>
+            <p begin="00:21:07:01" end="00:21:08:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah Praise the Lord</span>
+            </p>
+            <p begin="00:21:08:08" end="00:21:08:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">He said</span>
+            </p>
+            <p begin="00:21:08:25" end="00:21:09:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">I am Alpha and</span>
+            </p>
+            <p begin="00:21:10:16" end="00:21:11:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and Omega..and</span>
+            </p>
+            <p begin="00:21:11:21" end="00:21:13:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">I am Alpha and Omega,</span>
+            </p>
+            <p begin="00:21:13:19" end="00:21:14:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">saith the Lord</span>
+            </p>
+            <p begin="00:21:14:12" end="00:21:15:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Which is</span>
+            </p>
+            <p begin="00:21:15:18" end="00:21:17:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Which is, which was</span>
+            </p>
+            <p begin="00:21:17:10" end="00:21:18:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and which is to come,</span>
+            </p>
+            <p begin="00:21:18:16" end="00:21:20:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the Almighty.</span>
+            </p>
+            <p begin="00:21:21:14" end="00:21:22:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Let us clap our hands</span>
+            </p>
+            <p begin="00:21:23:00" end="00:21:24:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to our dear Lord hallelujah</span>
+            </p>
+            <p begin="00:21:26:12" end="00:21:27:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Let us clap our hands</span>
+            </p>
+            <p begin="00:21:27:27" end="00:21:29:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to our dear Lord once again</span>
+            </p>
+            <p begin="00:21:29:03" end="00:21:30:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">while those verses are</span>
+            </p>
+            <p begin="00:21:30:01" end="00:21:30:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">being prepared</span>
+            </p>
+            <p begin="00:21:30:20" end="00:21:32:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Praise the Lord. Hallelujah.</span>
+            </p>
+            <p begin="00:21:35:02" end="00:21:36:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Revelation 1: 7 and 8</span>
+            </p>
+            <p begin="00:21:37:03" end="00:21:38:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved bible readers</span>
+            </p>
+            <p begin="00:21:39:05" end="00:21:40:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">In the book of Revelation</span>
+            </p>
+            <p begin="00:21:40:08" end="00:21:41:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Chapter 1</span>
+            </p>
+            <p begin="00:21:41:06" end="00:21:42:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">verses 7 and 8</span>
+            </p>
+            <p begin="00:21:43:04" end="00:21:44:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Behold, he cometh with clouds;</span>
+            </p>
+            <p begin="00:21:45:01" end="00:21:46:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and every eye shall see him,</span>
+            </p>
+            <p begin="00:21:47:02" end="00:21:49:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and they also which pierced him:</span>
+            </p>
+            <p begin="00:21:49:18" end="00:21:51:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and all kindreds of the earth</span>
+            </p>
+            <p begin="00:21:51:05" end="00:21:52:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">shall wail because of him.</span>
+            </p>
+            <p begin="00:21:52:29" end="00:21:54:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Even so, Amen.</span>
+            </p>
+            <p begin="00:21:54:22" end="00:21:56:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">I am Alpha and Omega,</span>
+            </p>
+            <p begin="00:21:56:26" end="00:21:58:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the beginning and the ending,</span>
+            </p>
+            <p begin="00:21:58:07" end="00:21:59:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">saith the Lord,</span>
+            </p>
+            <p begin="00:21:59:18" end="00:22:02:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">which is, and which was,</span>
+            </p>
+            <p begin="00:22:02:04" end="00:22:04:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and which is to come,</span>
+            </p>
+            <p begin="00:22:04:16" end="00:22:05:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the Almighty.</span>
+            </p>
+            <p begin="00:22:05:20" end="00:22:07:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Amen. Let us clap our hands</span>
+            </p>
+            <p begin="00:22:07:10" end="00:22:07:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to our dear Lord.</span>
+            </p>
+            <p begin="00:22:07:29" end="00:22:08:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The Almighty.</span>
+            </p>
+            <p begin="00:22:09:12" end="00:22:11:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">There is no God then amen</span>
+            </p>
+            <p begin="00:22:11:02" end="00:22:12:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">There is no other God</span>
+            </p>
+            <p begin="00:22:12:12" end="00:22:14:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but our dearest Lord.</span>
+            </p>
+            <p begin="00:22:14:06" end="00:22:14:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Praise the Lord.</span>
+            </p>
+            <p begin="00:22:15:11" end="00:22:17:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">In the book of Revelation</span>
+            </p>
+            <p begin="00:22:18:17" end="00:22:19:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">chapter</span>
+            </p>
+            <p begin="00:22:19:21" end="00:22:20:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">one</span>
+            </p>
+            <p begin="00:22:20:07" end="00:22:22:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">verses 7 and 8</span>
+            </p>
+            <p begin="00:22:22:16" end="00:22:25:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">I am Alpha and Omega,</span>
+            </p>
+            <p begin="00:22:25:15" end="00:22:27:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">saith the Lord,</span>
+            </p>
+            <p begin="00:22:27:20" end="00:22:29:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">which is, and which was,</span>
+            </p>
+            <p begin="00:22:29:07" end="00:22:30:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and which is to come,</span>
+            </p>
+            <p begin="00:22:30:17" end="00:22:32:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the Almighty.</span>
+            </p>
+            <p begin="00:22:33:13" end="00:22:34:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">I John, who also am your brother</span>
+            </p>
+            <p begin="00:22:34:25" end="00:22:36:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and companion in tribulation,</span>
+            </p>
+            <p begin="00:22:36:27" end="00:22:37:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and in the kingdom</span>
+            </p>
+            <p begin="00:22:38:03" end="00:22:39:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and patience of Jesus Christ,</span>
+            </p>
+            <p begin="00:22:39:26" end="00:22:42:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">was in the isle that is called</span>
+            </p>
+            <p begin="00:22:42:07" end="00:22:42:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Patmos,</span>
+            </p>
+            <p begin="00:22:42:23" end="00:22:43:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">for the word of God,</span>
+            </p>
+            <p begin="00:22:43:28" end="00:22:46:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and for the testimony of Jesus  Christ.</span>
+            </p>
+            <p begin="00:22:47:00" end="00:22:49:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Praise the Lord. Amen.  Hallelujah.</span>
+            </p>
+            <p begin="00:22:49:04" end="00:22:51:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Give a loud and lively clap</span>
+            </p>
+            <p begin="00:22:51:04" end="00:22:53:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to our dear Lord Hallelujah</span>
+            </p>
+            <p begin="00:22:54:15" end="00:22:56:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">And so this is what we believe  in</span>
+            </p>
+            <p begin="00:22:56:06" end="00:22:57:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">John 8:24 says</span>
+            </p>
+            <p begin="00:22:57:19" end="00:22:59:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">I said therefore unto you</span>
+            </p>
+            <p begin="00:22:59:19" end="00:23:02:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that ye shall die in your sins:</span>
+            </p>
+            <p begin="00:23:02:02" end="00:23:03:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">for if ye believe not</span>
+            </p>
+            <p begin="00:23:03:14" end="00:23:05:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that I am he,</span>
+            </p>
+            <p begin="00:23:05:13" end="00:23:07:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">ye shall die in your sins.</span>
+            </p>
+            <p begin="00:23:07:27" end="00:23:08:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">And so</span>
+            </p>
+            <p begin="00:23:08:26" end="00:23:09:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:23:09:27" end="00:23:11:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we are in the true</span>
+            </p>
+            <p begin="00:23:12:06" end="00:23:13:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">belief</span>
+            </p>
+            <p begin="00:23:13:05" end="00:23:15:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in true faith</span>
+            </p>
+            <p begin="00:23:16:06" end="00:23:18:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">That's why it's no surprise</span>
+            </p>
+            <p begin="00:23:18:06" end="00:23:20:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that the power of our dear God</span>
+            </p>
+            <p begin="00:23:20:06" end="00:23:21:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">is manifesting.</span>
+            </p>
+            <p begin="00:23:22:00" end="00:23:23:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">It is said that the power of God</span>
+            </p>
+            <p begin="00:23:23:09" end="00:23:24:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">shall be with those</span>
+            </p>
+            <p begin="00:23:25:01" end="00:23:27:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">who call upon Him amen in truth</span>
+            </p>
+            <p begin="00:23:28:28" end="00:23:29:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">God is a spirit</span>
+            </p>
+            <p begin="00:23:29:27" end="00:23:31:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">they that worship Him</span>
+            </p>
+            <p begin="00:23:31:03" end="00:23:32:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">must worship Him in spirit</span>
+            </p>
+            <p begin="00:23:33:07" end="00:23:33:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and in truth</span>
+            </p>
+            <p begin="00:23:33:22" end="00:23:34:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">In reality</span>
+            </p>
+            <p begin="00:23:34:11" end="00:23:36:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">if you worship God</span>
+            </p>
+            <p begin="00:23:36:07" end="00:23:38:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">it needs to be based on truth</span>
+            </p>
+            <p begin="00:23:38:07" end="00:23:39:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:23:39:20" end="00:23:41:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">where the power of our dear God</span>
+            </p>
+            <p begin="00:23:41:04" end="00:23:42:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">is manifesting</span>
+            </p>
+            <p begin="00:23:42:06" end="00:23:42:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and that</span>
+            </p>
+            <p begin="00:23:42:29" end="00:23:43:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">is why</span>
+            </p>
+            <p begin="00:23:43:19" end="00:23:44:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the Jesus Miracle Crusade</span>
+            </p>
+            <p begin="00:23:44:24" end="00:23:45:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">for the last 43 years</span>
+            </p>
+            <p begin="00:23:45:29" end="00:23:46:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">has been preaching</span>
+            </p>
+            <p begin="00:23:46:28" end="00:23:47:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the Word of God</span>
+            </p>
+            <p begin="00:23:47:22" end="00:23:48:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to fulfill</span>
+            </p>
+            <p begin="00:23:49:04" end="00:23:50:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the commandment of our dear Lord</span>
+            </p>
+            <p begin="00:23:50:20" end="00:23:52:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Mark 16:15</span>
+            </p>
+            <p begin="00:23:52:20" end="00:23:53:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Go ye into all the world,</span>
+            </p>
+            <p begin="00:23:53:23" end="00:23:54:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and preach the gospel</span>
+            </p>
+            <p begin="00:23:54:25" end="00:23:56:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to every creature.</span>
+            </p>
+            <p begin="00:23:56:03" end="00:23:57:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">He that believeth</span>
+            </p>
+            <p begin="00:23:57:02" end="00:23:57:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and is baptized</span>
+            </p>
+            <p begin="00:23:57:28" end="00:23:58:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">shall be saved;</span>
+            </p>
+            <p begin="00:23:58:17" end="00:23:59:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but he that</span>
+            </p>
+            <p begin="00:23:59:22" end="00:24:01:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">believeth not shall be damned.</span>
+            </p>
+            <p begin="00:24:01:06" end="00:24:02:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">That's how simple it is</span>
+            </p>
+            <p begin="00:24:02:10" end="00:24:03:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:24:04:07" end="00:24:05:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">If you will believe</span>
+            </p>
+            <p begin="00:24:05:06" end="00:24:06:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">then you will be saved</span>
+            </p>
+            <p begin="00:24:07:20" end="00:24:09:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">if you are serving God</span>
+            </p>
+            <p begin="00:24:09:05" end="00:24:10:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">if you do not believe</span>
+            </p>
+            <p begin="00:24:10:16" end="00:24:12:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and do not serve God</span>
+            </p>
+            <p begin="00:24:12:11" end="00:24:14:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">then destruction awaits you</span>
+            </p>
+            <p begin="00:24:14:09" end="00:24:14:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:24:15:14" end="00:24:17:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that's why with full courage</span>
+            </p>
+            <p begin="00:24:17:14" end="00:24:18:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the Jesus Miracle Crusade</span>
+            </p>
+            <p begin="00:24:18:21" end="00:24:21:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">preaches from then until now </span>
+            </p>
+            <p begin="00:24:21:22" end="00:24:22:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we have witnessed</span>
+            </p>
+            <p begin="00:24:22:17" end="00:24:23:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the power of God</span>
+            </p>
+            <p begin="00:24:23:25" end="00:24:25:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">if we have to count each one</span>
+            </p>
+            <p begin="00:24:25:06" end="00:24:26:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:24:26:09" end="00:24:28:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">this whole night won't be over</span>
+            </p>
+            <p begin="00:24:28:09" end="00:24:29:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">it won't be enough amen</span>
+            </p>
+            <p begin="00:24:30:03" end="00:24:31:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah</span>
+            </p>
+            <p begin="00:24:31:11" end="00:24:32:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to even talk about</span>
+            </p>
+            <p begin="00:24:32:12" end="00:24:34:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">just one miracle from one member here</span>
+            </p>
+            <p begin="00:24:34:16" end="00:24:35:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:24:35:13" end="00:24:36:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">then how much more with</span>
+            </p>
+            <p begin="00:24:36:13" end="00:24:38:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">entire Jesus Miracle Crusade</span>
+            </p>
+            <p begin="00:24:39:04" end="00:24:40:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">I myself am a living witness</span>
+            </p>
+            <p begin="00:24:40:25" end="00:24:41:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">of how</span>
+            </p>
+            <p begin="00:24:42:11" end="00:24:43:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">a blind person's eyes</span>
+            </p>
+            <p begin="00:24:43:13" end="00:24:45:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">were opened and able to see amen</span>
+            </p>
+            <p begin="00:24:45:05" end="00:24:46:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">healed by God</span>
+            </p>
+            <p begin="00:24:46:14" end="00:24:47:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the lame</span>
+            </p>
+            <p begin="00:24:47:20" end="00:24:48:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">our dearest Lord</span>
+            </p>
+            <p begin="00:24:48:11" end="00:24:50:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">caused them to walk</span>
+            </p>
+            <p begin="00:24:50:02" end="00:24:52:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that is power from God</span>
+            </p>
+            <p begin="00:24:52:18" end="00:24:53:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Praise the Lord</span>
+            </p>
+            <p begin="00:24:53:19" end="00:24:55:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Kindly please, Mark 16:15</span>
+            </p>
+            <p begin="00:24:56:29" end="00:24:59:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">First please read John 4:24</span>
+            </p>
+            <p begin="00:24:59:19" end="00:25:01:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Mark 16:15 to 18</span>
+            </p>
+            <p begin="00:25:02:15" end="00:25:04:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and then John 4:24</span>
+            </p>
+            <p begin="00:25:06:01" end="00:25:09:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">In Mark 16, verse 15 to 18</span>
+            </p>
+            <p begin="00:25:11:22" end="00:25:13:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">And he said unto them,</span>
+            </p>
+            <p begin="00:25:13:08" end="00:25:15:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Go ye into all the world,</span>
+            </p>
+            <p begin="00:25:15:16" end="00:25:16:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and preach the gospel</span>
+            </p>
+            <p begin="00:25:16:27" end="00:25:17:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to every creature.</span>
+            </p>
+            <p begin="00:25:18:22" end="00:25:19:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">He that believeth</span>
+            </p>
+            <p begin="00:25:19:22" end="00:25:21:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and is baptized</span>
+            </p>
+            <p begin="00:25:21:05" end="00:25:22:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">shall be saved;</span>
+            </p>
+            <p begin="00:25:22:17" end="00:25:24:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but he that believeth not</span>
+            </p>
+            <p begin="00:25:24:04" end="00:25:25:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">shall be damned.</span>
+            </p>
+            <p begin="00:25:26:13" end="00:25:28:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">And these signs shall follow</span>
+            </p>
+            <p begin="00:25:28:13" end="00:25:29:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">them that believe;</span>
+            </p>
+            <p begin="00:25:30:19" end="00:25:31:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">In my name shall they</span>
+            </p>
+            <p begin="00:25:31:29" end="00:25:33:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">cast out devils;</span>
+            </p>
+            <p begin="00:25:33:06" end="00:25:34:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">they shall speak</span>
+            </p>
+            <p begin="00:25:34:08" end="00:25:35:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">with new tongues;</span>
+            </p>
+            <p begin="00:25:35:28" end="00:25:37:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">They shall take up serpents;</span>
+            </p>
+            <p begin="00:25:37:19" end="00:25:38:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and if they drink</span>
+            </p>
+            <p begin="00:25:39:06" end="00:25:40:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">any deadly thing,</span>
+            </p>
+            <p begin="00:25:41:25" end="00:25:43:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">it shall not hurt them;</span>
+            </p>
+            <p begin="00:25:43:09" end="00:25:45:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">they shall lay hands on the  sick,</span>
+            </p>
+            <p begin="00:25:46:13" end="00:25:48:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and they shall recover.</span>
+            </p>
+            <p begin="00:25:49:13" end="00:25:50:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Here in the writings of Mark</span>
+            </p>
+            <p begin="00:25:50:26" end="00:25:52:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">chapter 16</span>
+            </p>
+            <p begin="00:25:52:00" end="00:25:53:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">verses 15 up to</span>
+            </p>
+            <p begin="00:25:53:27" end="00:25:54:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">18</span>
+            </p>
+            <p begin="00:25:55:10" end="00:25:56:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">And he said unto them,</span>
+            </p>
+            <p begin="00:25:57:03" end="00:26:00:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Go ye into all the world,</span>
+            </p>
+            <p begin="00:26:00:16" end="00:26:02:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and preach the gospel</span>
+            </p>
+            <p begin="00:26:02:14" end="00:26:03:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to every creature.</span>
+            </p>
+            <p begin="00:26:04:05" end="00:26:05:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">He that believeth and</span>
+            </p>
+            <p begin="00:26:05:19" end="00:26:07:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">is baptized shall be saved;</span>
+            </p>
+            <p begin="00:26:07:26" end="00:26:09:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but he that believeth not</span>
+            </p>
+            <p begin="00:26:09:29" end="00:26:11:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">shall be damned.</span>
+            </p>
+            <p begin="00:26:11:21" end="00:26:12:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">And these signs shall</span>
+            </p>
+            <p begin="00:26:12:26" end="00:26:14:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">follow them that believe;</span>
+            </p>
+            <p begin="00:26:14:21" end="00:26:16:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">In my name shall they</span>
+            </p>
+            <p begin="00:26:16:02" end="00:26:17:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">cast out devils;</span>
+            </p>
+            <p begin="00:26:17:28" end="00:26:18:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">they shall speak</span>
+            </p>
+            <p begin="00:26:18:23" end="00:26:20:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">with new tongues;</span>
+            </p>
+            <p begin="00:26:20:18" end="00:26:22:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">They shall take up serpents;</span>
+            </p>
+            <p begin="00:26:23:00" end="00:26:24:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and if they drink</span>
+            </p>
+            <p begin="00:26:24:17" end="00:26:27:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">any deadly thing,</span>
+            </p>
+            <p begin="00:26:27:16" end="00:26:29:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">it shall not hurt them;</span>
+            </p>
+            <p begin="00:26:30:08" end="00:26:33:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">they shall lay hands on the  sick,</span>
+            </p>
+            <p begin="00:26:33:07" end="00:26:34:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and they shall recover.</span>
+            </p>
+            <p begin="00:26:35:04" end="00:26:36:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Amen hallelujah</span>
+            </p>
+            <p begin="00:26:36:13" end="00:26:38:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in all of these beloved brethren</span>
+            </p>
+            <p begin="00:26:38:25" end="00:26:40:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">can't we clap our hands</span>
+            </p>
+            <p begin="00:26:40:14" end="00:26:41:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to our dear Lord?</span>
+            </p>
+            <p begin="00:26:43:15" end="00:26:46:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">because the word of God came  true</span>
+            </p>
+            <p begin="00:26:46:02" end="00:26:46:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:26:51:15" end="00:26:52:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">It's so amazing beloved brethren</span>
+            </p>
+            <p begin="00:26:52:25" end="00:26:54:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">until this present day</span>
+            </p>
+            <p begin="00:26:55:12" end="00:26:57:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">it's quite unbelievable to see</span>
+            </p>
+            <p begin="00:26:57:06" end="00:26:59:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the mighty power of our dear God</span>
+            </p>
+            <p begin="00:27:01:20" end="00:27:02:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">We have</span>
+            </p>
+            <p begin="00:27:03:01" end="00:27:04:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">overwhelming joy amen</span>
+            </p>
+            <p begin="00:27:04:27" end="00:27:06:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that we may not be worthy</span>
+            </p>
+            <p begin="00:27:06:18" end="00:27:08:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in the sight of our dear Lord</span>
+            </p>
+            <p begin="00:27:08:07" end="00:27:09:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we are given great mercy</span>
+            </p>
+            <p begin="00:27:09:18" end="00:27:10:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">by our dear Lord</span>
+            </p>
+            <p begin="00:27:10:17" end="00:27:11:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah</span>
+            </p>
+            <p begin="00:27:11:05" end="00:27:12:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Through the leading prayers</span>
+            </p>
+            <p begin="00:27:12:08" end="00:27:13:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">of our dearly beloved Pastor</span>
+            </p>
+            <p begin="00:27:13:14" end="00:27:14:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we are able to</span>
+            </p>
+            <p begin="00:27:14:21" end="00:27:15:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we are able to perform</span>
+            </p>
+            <p begin="00:27:15:24" end="00:27:17:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">our duties wherever we are</span>
+            </p>
+            <p begin="00:27:17:23" end="00:27:18:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah</span>
+            </p>
+            <p begin="00:27:19:16" end="00:27:20:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">All the brethren who continue</span>
+            </p>
+            <p begin="00:27:20:22" end="00:27:21:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in serving the Lord here</span>
+            </p>
+            <p begin="00:27:21:22" end="00:27:22:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:27:22:26" end="00:27:23:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">as my beloved sister Ate Teth</span>
+            </p>
+            <p begin="00:27:23:25" end="00:27:24:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and I have talked about</span>
+            </p>
+            <p begin="00:27:24:22" end="00:27:27:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">they become our strength amen</span>
+            </p>
+            <p begin="00:27:27:18" end="00:27:28:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">strength for each of us</span>
+            </p>
+            <p begin="00:27:28:27" end="00:27:29:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:27:29:22" end="00:27:30:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to see all of you</span>
+            </p>
+            <p begin="00:27:30:29" end="00:27:31:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:27:31:24" end="00:27:33:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">serving a true God</span>
+            </p>
+            <p begin="00:27:33:28" end="00:27:36:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the enemy will do everything</span>
+            </p>
+            <p begin="00:27:36:06" end="00:27:37:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">so that we'll turn away</span>
+            </p>
+            <p begin="00:27:37:04" end="00:27:38:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">from serving God</span>
+            </p>
+            <p begin="00:27:38:17" end="00:27:40:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">so that we'd lose motivation in  serving God</span>
+            </p>
+            <p begin="00:27:40:19" end="00:27:41:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but the bible says</span>
+            </p>
+            <p begin="00:27:41:19" end="00:27:43:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we have to endure</span>
+            </p>
+            <p begin="00:27:43:28" end="00:27:45:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we have things to endure</span>
+            </p>
+            <p begin="00:27:45:19" end="00:27:46:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">amen</span>
+            </p>
+            <p begin="00:27:46:26" end="00:27:48:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">because the coming of our dear  Lord</span>
+            </p>
+            <p begin="00:27:48:24" end="00:27:50:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">draws near</span>
+            </p>
+            <p begin="00:27:50:00" end="00:27:50:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah</span>
+            </p>
+            <p begin="00:27:51:06" end="00:27:53:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Musicians kindly please get  ready</span>
+            </p>
+            <p begin="00:27:53:27" end="00:27:55:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">There is no more debate</span>
+            </p>
+            <p begin="00:27:55:18" end="00:27:56:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:27:56:15" end="00:27:58:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we are in the whole truth</span>
+            </p>
+            <p begin="00:27:59:10" end="00:28:01:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">even if we do not speak of it</span>
+            </p>
+            <p begin="00:28:01:26" end="00:28:03:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The mighty power of God</span>
+            </p>
+            <p begin="00:28:03:17" end="00:28:05:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">screams loudly in this ministry</span>
+            </p>
+            <p begin="00:28:06:04" end="00:28:07:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">In the Philippines</span>
+            </p>
+            <p begin="00:28:07:01" end="00:28:07:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in Asia</span>
+            </p>
+            <p begin="00:28:07:21" end="00:28:08:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in the Middle East</span>
+            </p>
+            <p begin="00:28:08:20" end="00:28:09:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in Europe</span>
+            </p>
+            <p begin="00:28:09:13" end="00:28:10:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">here in America</span>
+            </p>
+            <p begin="00:28:10:18" end="00:28:12:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The true word of God arrived</span>
+            </p>
+            <p begin="00:28:12:28" end="00:28:14:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">with power</span>
+            </p>
+            <p begin="00:28:14:04" end="00:28:14:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah</span>
+            </p>
+            <p begin="00:28:16:04" end="00:28:19:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">And as John the Baptist says</span>
+            </p>
+            <p begin="00:28:20:05" end="00:28:22:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in Matthew 11:2 and 6</span>
+            </p>
+            <p begin="00:28:22:06" end="00:28:23:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Now when John had heard</span>
+            </p>
+            <p begin="00:28:24:00" end="00:28:25:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in the prison</span>
+            </p>
+            <p begin="00:28:27:14" end="00:28:29:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Now when John had heard</span>
+            </p>
+            <p begin="00:28:29:03" end="00:28:29:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in the prison</span>
+            </p>
+            <p begin="00:28:29:23" end="00:28:30:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the works of Christ,</span>
+            </p>
+            <p begin="00:28:31:11" end="00:28:33:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">he sent two of his disciples,</span>
+            </p>
+            <p begin="00:28:34:01" end="00:28:34:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">And said unto him,</span>
+            </p>
+            <p begin="00:28:34:27" end="00:28:37:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Art thou he that should come,</span>
+            </p>
+            <p begin="00:28:37:07" end="00:28:38:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">or do we look for another?</span>
+            </p>
+            <p begin="00:28:39:14" end="00:28:40:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Jesus answered</span>
+            </p>
+            <p begin="00:28:40:10" end="00:28:41:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and said unto them,</span>
+            </p>
+            <p begin="00:28:41:03" end="00:28:43:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Go and shew John again</span>
+            </p>
+            <p begin="00:28:43:15" end="00:28:44:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">those things which</span>
+            </p>
+            <p begin="00:28:44:17" end="00:28:46:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">ye do hear and see:</span>
+            </p>
+            <p begin="00:28:47:11" end="00:28:49:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The blind receive their sight,</span>
+            </p>
+            <p begin="00:28:49:07" end="00:28:50:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and the lame walk,</span>
+            </p>
+            <p begin="00:28:50:29" end="00:28:52:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the lepers are cleansed,</span>
+            </p>
+            <p begin="00:28:52:17" end="00:28:54:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and the deaf hear,</span>
+            </p>
+            <p begin="00:28:54:08" end="00:28:55:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the dead are raised up,</span>
+            </p>
+            <p begin="00:28:56:03" end="00:28:57:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and the poor have the gospel</span>
+            </p>
+            <p begin="00:28:57:23" end="00:28:58:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">preached to them.</span>
+            </p>
+            <p begin="00:28:59:14" end="00:29:00:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah</span>
+            </p>
+            <p begin="00:29:01:11" end="00:29:02:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">And blessed is he,</span>
+            </p>
+            <p begin="00:29:02:15" end="00:29:05:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">who shall not be offended in me.</span>
+            </p>
+            <p begin="00:29:05:16" end="00:29:06:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Let us clap our hands</span>
+            </p>
+            <p begin="00:29:06:13" end="00:29:08:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to our dear Lord.</span>
+            </p>
+            <p begin="00:29:08:15" end="00:29:10:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">In tagalog please, praise the  Lord.</span>
+            </p>
+            <p begin="00:29:11:05" end="00:29:13:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">In the book of Matthew chapter</span>
+            </p>
+            <p begin="00:29:13:16" end="00:29:14:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">eleven</span>
+            </p>
+            <p begin="00:29:14:13" end="00:29:16:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">starting at verse 2 up to 6</span>
+            </p>
+            <p begin="00:29:17:04" end="00:29:18:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Now when John had heard</span>
+            </p>
+            <p begin="00:29:18:16" end="00:29:19:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in the prison</span>
+            </p>
+            <p begin="00:29:19:08" end="00:29:20:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the works of Christ,</span>
+            </p>
+            <p begin="00:29:20:25" end="00:29:22:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">he sent two of his disciples,</span>
+            </p>
+            <p begin="00:29:23:04" end="00:29:24:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">And said unto him,</span>
+            </p>
+            <p begin="00:29:24:23" end="00:29:26:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Art thou he that should come,</span>
+            </p>
+            <p begin="00:29:26:18" end="00:29:28:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">or do we look for another?</span>
+            </p>
+            <p begin="00:29:28:16" end="00:29:29:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Jesus answered</span>
+            </p>
+            <p begin="00:29:29:20" end="00:29:30:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and said unto them,</span>
+            </p>
+            <p begin="00:29:31:15" end="00:29:33:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Go and shew John again</span>
+            </p>
+            <p begin="00:29:33:03" end="00:29:34:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">those things which ye</span>
+            </p>
+            <p begin="00:29:34:22" end="00:29:35:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">do hear and see:</span>
+            </p>
+            <p begin="00:29:36:15" end="00:29:38:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The blind receive their sight,</span>
+            </p>
+            <p begin="00:29:38:16" end="00:29:39:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and the lame walk,</span>
+            </p>
+            <p begin="00:29:40:00" end="00:29:41:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the lepers are cleansed,</span>
+            </p>
+            <p begin="00:29:41:17" end="00:29:43:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and the deaf hear,</span>
+            </p>
+            <p begin="00:29:43:17" end="00:29:44:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the dead are raised up,</span>
+            </p>
+            <p begin="00:29:45:11" end="00:29:46:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">and the poor have the gospel</span>
+            </p>
+            <p begin="00:29:46:25" end="00:29:47:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">preached to them.</span>
+            </p>
+            <p begin="00:29:47:26" end="00:29:49:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">And blessed is he,</span>
+            </p>
+            <p begin="00:29:49:19" end="00:29:51:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">whosoever shall not be</span>
+            </p>
+            <p begin="00:29:51:04" end="00:29:52:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">offended in me.</span>
+            </p>
+            <p begin="00:29:52:24" end="00:29:53:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Let us give a loud and</span>
+            </p>
+            <p begin="00:29:53:29" end="00:29:56:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">lively clap to our dear Lord  Jesus.</span>
+            </p>
+            <p begin="00:29:56:19" end="00:29:58:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah Hallelujah</span>
+            </p>
+            <p begin="00:29:58:23" end="00:30:00:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Imagine beloved brethren</span>
+            </p>
+            <p begin="00:30:00:15" end="00:30:01:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we were mere kids during</span>
+            </p>
+            <p begin="00:30:01:25" end="00:30:03:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">those early crusades</span>
+            </p>
+            <p begin="00:30:04:05" end="00:30:05:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">at Luneta</span>
+            </p>
+            <p begin="00:30:05:07" end="00:30:06:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">with beloved sis. Teth,</span>
+            </p>
+            <p begin="00:30:06:01" end="00:30:08:01" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved sis. Peach, beloved sis. Lay</span>
+            </p>
+            <p begin="00:30:08:10" end="00:30:09:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">We were so young and little</span>
+            </p>
+            <p begin="00:30:09:20" end="00:30:10:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">yet we have witnessed</span>
+            </p>
+            <p begin="00:30:10:18" end="00:30:12:05" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the miracles that were written</span>
+            </p>
+            <p begin="00:30:12:05" end="00:30:13:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in the bible.</span>
+            </p>
+            <p begin="00:30:14:03" end="00:30:15:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Who could dare tell us</span>
+            </p>
+            <p begin="00:30:15:22" end="00:30:17:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that what is preached here</span>
+            </p>
+            <p begin="00:30:17:05" end="00:30:18:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">is not true</span>
+            </p>
+            <p begin="00:30:18:12" end="00:30:19:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in the Jesus Miracle Crusade?</span>
+            </p>
+            <p begin="00:30:20:17" end="00:30:21:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Who could dare tell us</span>
+            </p>
+            <p begin="00:30:21:29" end="00:30:25:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that the bible is not the truth?</span>
+            </p>
+            <p begin="00:30:26:18" end="00:30:27:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">That's why whether we live</span>
+            </p>
+            <p begin="00:30:27:21" end="00:30:28:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">or whether we die</span>
+            </p>
+            <p begin="00:30:28:20" end="00:30:30:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we will serve the Lord</span>
+            </p>
+            <p begin="00:30:30:00" end="00:30:30:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:30:30:27" end="00:30:32:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah</span>
+            </p>
+            <p begin="00:30:32:28" end="00:30:34:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Salvation is very real</span>
+            </p>
+            <p begin="00:30:34:19" end="00:30:36:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">let us not make it a joke</span>
+            </p>
+            <p begin="00:30:36:23" end="00:30:38:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">let us not play around with it</span>
+            </p>
+            <p begin="00:30:38:13" end="00:30:40:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:30:40:14" end="00:30:42:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Listen to the word of God</span>
+            </p>
+            <p begin="00:30:42:29" end="00:30:44:12" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">We're not the greatest in</span>
+            </p>
+            <p begin="00:30:44:12" end="00:30:46:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">preaching the word of God</span>
+            </p>
+            <p begin="00:30:47:28" end="00:30:49:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">but we know in our hearts</span>
+            </p>
+            <p begin="00:30:49:23" end="00:30:50:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:30:50:13" end="00:30:51:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that we need to do this</span>
+            </p>
+            <p begin="00:30:52:04" end="00:30:53:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Because the gospel of God</span>
+            </p>
+            <p begin="00:30:53:18" end="00:30:54:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">is true</span>
+            </p>
+            <p begin="00:30:54:27" end="00:30:58:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the power of our dear Lord  manifests</span>
+            </p>
+            <p begin="00:30:58:08" end="00:30:59:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah</span>
+            </p>
+            <p begin="00:31:00:02" end="00:31:01:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">There are many who</span>
+            </p>
+            <p begin="00:31:01:00" end="00:31:01:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">who can preach better</span>
+            </p>
+            <p begin="00:31:02:01" end="00:31:02:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:31:02:24" end="00:31:04:17" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">they studied with graduate  degrees</span>
+            </p>
+            <p begin="00:31:04:18" end="00:31:05:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">(right)</span>
+            </p>
+            <p begin="00:31:05:28" end="00:31:06:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">But here in</span>
+            </p>
+            <p begin="00:31:06:14" end="00:31:07:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the Jesus Miracle Crusade</span>
+            </p>
+            <p begin="00:31:07:23" end="00:31:08:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">through the preachings</span>
+            </p>
+            <p begin="00:31:08:20" end="00:31:10:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">of our dearly beloved Pastor</span>
+            </p>
+            <p begin="00:31:10:13" end="00:31:11:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">It is here that we've seen</span>
+            </p>
+            <p begin="00:31:11:29" end="00:31:14:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that truly our dear Lord is real</span>
+            </p>
+            <p begin="00:31:14:20" end="00:31:15:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that what is written</span>
+            </p>
+            <p begin="00:31:15:15" end="00:31:16:21" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in the bible is true</span>
+            </p>
+            <p begin="00:31:16:21" end="00:31:17:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">(yes amen)</span>
+            </p>
+            <p begin="00:31:18:20" end="00:31:20:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">God does not want anyone to  perish</span>
+            </p>
+            <p begin="00:31:20:26" end="00:31:22:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:31:22:19" end="00:31:24:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">God wants us to come to Him</span>
+            </p>
+            <p begin="00:31:25:01" end="00:31:25:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">(right)</span>
+            </p>
+            <p begin="00:31:26:09" end="00:31:28:04" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Ask forgiveness for our sins</span>
+            </p>
+            <p begin="00:31:28:04" end="00:31:30:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">serve Him with faithfulness</span>
+            </p>
+            <p begin="00:31:30:06" end="00:31:31:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:31:32:18" end="00:31:33:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Serve the Lord with</span>
+            </p>
+            <p begin="00:31:34:06" end="00:31:35:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">fear and trembling</span>
+            </p>
+            <p begin="00:31:35:22" end="00:31:36:11" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:31:36:11" end="00:31:37:15" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">We do not know what</span>
+            </p>
+            <p begin="00:31:37:15" end="00:31:38:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">tomorrow brings</span>
+            </p>
+            <p begin="00:31:38:23" end="00:31:40:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we don't hold our lives</span>
+            </p>
+            <p begin="00:31:40:24" end="00:31:42:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">you cannot boast</span>
+            </p>
+            <p begin="00:31:43:05" end="00:31:44:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">that you have achieved</span>
+            </p>
+            <p begin="00:31:45:06" end="00:31:46:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">where you are today</span>
+            </p>
+            <p begin="00:31:47:13" end="00:31:49:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">or that you've attained higher  education</span>
+            </p>
+            <p begin="00:31:49:13" end="00:31:49:28" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:31:50:06" end="00:31:52:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Your wealth is not your strength</span>
+            </p>
+            <p begin="00:31:52:10" end="00:31:53:22" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">while you're young</span>
+            </p>
+            <p begin="00:31:53:29" end="00:31:55:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">you will eventually get old</span>
+            </p>
+            <p begin="00:31:55:27" end="00:31:57:23" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">And it is appointed unto man</span>
+            </p>
+            <p begin="00:31:57:23" end="00:31:58:13" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">once to die but</span>
+            </p>
+            <p begin="00:31:58:13" end="00:32:00:10" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">after this the judgment</span>
+            </p>
+            <p begin="00:32:01:12" end="00:32:02:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">where will you spend</span>
+            </p>
+            <p begin="00:32:02:19" end="00:32:03:18" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">your eternity</span>
+            </p>
+            <p begin="00:32:04:22" end="00:32:06:09" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">The truth is here</span>
+            </p>
+            <p begin="00:32:08:22" end="00:32:09:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Our beloved honorable Pastor</span>
+            </p>
+            <p begin="00:32:09:26" end="00:32:11:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">will not risk his life</span>
+            </p>
+            <p begin="00:32:11:03" end="00:32:12:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">in Talipao, Jolo Sulu</span>
+            </p>
+            <p begin="00:32:13:05" end="00:32:14:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Just to preach</span>
+            </p>
+            <p begin="00:32:14:00" end="00:32:15:20" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">the true word of our dear Lord</span>
+            </p>
+            <p begin="00:32:16:07" end="00:32:18:07" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">If the word of God is not real</span>
+            </p>
+            <p begin="00:32:19:25" end="00:32:21:27" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Each one of us beloved brethren</span>
+            </p>
+            <p begin="00:32:21:27" end="00:32:22:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">has experienced this</span>
+            </p>
+            <p begin="00:32:22:26" end="00:32:23:25" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we have experienced it</span>
+            </p>
+            <p begin="00:32:23:25" end="00:32:24:29" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">we have felt it</span>
+            </p>
+            <p begin="00:32:25:29" end="00:32:27:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">For all the youth,</span>
+            </p>
+            <p begin="00:32:27:00" end="00:32:28:03" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">please do not make salvation</span>
+            </p>
+            <p begin="00:32:28:04" end="00:32:30:16" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">nor serving the dear Lord as  some joke</span>
+            </p>
+            <p begin="00:32:30:16" end="00:32:31:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah</span>
+            </p>
+            <p begin="00:32:32:03" end="00:32:33:06" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Let us clap our hands</span>
+            </p>
+            <p begin="00:32:33:07" end="00:32:34:02" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">to our dear Lord</span>
+            </p>
+            <p begin="00:32:34:02" end="00:32:34:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah</span>
+            </p>
+            <p begin="00:32:36:28" end="00:32:38:08" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Please let us all stand.</span>
+            </p>
+            <p begin="00:32:38:20" end="00:32:40:24" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Let us sing praise to our dear  Lord.</span>
+            </p>
+            <p begin="00:32:41:25" end="00:32:43:19" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">We invite all the newcomers</span>
+            </p>
+            <p begin="00:32:49:18" end="00:32:51:14" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">(kindly please assist the  newcomers)</span>
+            </p>
+            <p begin="00:32:51:14" end="00:32:52:26" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">beloved brethren</span>
+            </p>
+            <p begin="00:32:53:22" end="00:32:55:00" region="bottom">
+                <span tts:color="rgba(255,255,255,255)">Hallelujah Hallelujah</span>
+            </p>
+        </div>
+    </body>
+</tt>
