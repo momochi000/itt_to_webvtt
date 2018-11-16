@@ -13,17 +13,8 @@ class WebVTTConverter
   end
 
   def convert
-
-    @doc = File.open(@config[:infile]) { |f| Nokogiri::XML(f) }
-    output_data = @doc.css('body div p').map do |p_tag|
-
-      {
-        :begin_timestamp => p_tag.attr("begin"),
-        :end_timestamp => p_tag.attr("end"),
-        :caption_content => p_tag.text.strip.split('  ')
-      }
-
-    end
+    read_file
+    output_data = parse_captions
 
     begin
       File.open(@config[:outfile], 'w') do |file|
@@ -59,6 +50,21 @@ class WebVTTConverter
 
   def frame_num_to_milliseconds(frame_num)
     ((1000/@config[:fps].to_f)*frame_num.to_i).to_i
+  end
+
+  def parse_captions
+    raise "You must first read the input file before attempting to parse captions" unless @doc
+    @doc.css('body div p').map do |p_tag|
+      {
+        :begin_timestamp => p_tag.attr("begin"),
+        :end_timestamp => p_tag.attr("end"),
+        :caption_content => p_tag.text.strip.split('  ')
+      }
+    end
+  end
+
+  def read_file
+    @doc = File.open(@config[:infile]) { |f| Nokogiri::XML(f) }
   end
 end
 
